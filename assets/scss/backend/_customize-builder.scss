@@ -1,0 +1,375 @@
+.theme-extends-customize-builder{
+  &:not(.builder-mode-preview){
+    // margin: 30px 0;
+    padding-bottom: 20px;
+  }
+  &.builder-mode-preview{
+    &.customize-builder-wrap{
+      .rs-row{
+        display: table;
+        .rs-col{
+          display: table-cell;
+          .rs-col-inner{
+            padding: 1px;
+          }
+        }
+      }
+    }
+  }
+  &.customize-builder-wrap{
+    position: relative;
+    .customize-builder-footer-tools{
+      position: absolute;
+      bottom: -40px;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      .tool-item{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 50%;
+        text-align: center;
+        background: $backend_color_1;
+        color: #FFF;
+        margin: 0 15px;
+        display: inline-block;
+        font-size: 16px;
+        transition: .2s ease;
+        -webkit-transition: .2s ease;
+        @include btn-shadow-effect-hover($backend_color_1);
+        span{
+          display: inline-block;
+          transition: .2s ease;
+          -webkit-transition: .2s ease;
+        }
+        &:hover{
+          transform: scale(1.15);
+          -webkit-transform: scale(1.15);
+          span{
+            transform: scale(.8);
+            -webkit-transform: scale(.8);
+          }
+        }
+      }
+    }
+    .customize-builder-container{
+      position: relative;
+    }
+    .rs-row{
+      display: table;
+      position: relative;
+      outline-color: transparent;
+      z-index: 1;
+      transition: .1s ease;
+      -webkit-transition: .1s ease;
+      &:hover{
+        outline: 1px solid $backend_color_1;
+      }
+      .rs-col{
+        display: table-cell;
+        vertical-align: middle;
+        position: relative;
+        z-index: 3;
+
+        .rs-col-inner{
+          padding: 10px;
+          position: relative;
+          &:hover{
+            outline: 1px dashed rgba(1,1,1,.8);
+          }
+          &.empty-widget{
+            min-height: 60px;
+            &:before{
+              content: "";
+              width: calc(100% - 20px);
+              height: calc(100% - 20px);
+              text-align: center;
+              outline: 1px dashed rgba(1,1,1,.2);
+              position: absolute;
+              left: 10px;
+              top: 10px;
+              background: url('../images/svg-icons/cube.svg') no-repeat center center;
+              background-size: 20px;
+            }
+          }
+        }
+        .ui-resizable-w{
+          cursor: ew-resize;
+        }
+        &:hover{
+          > .element-editor-tools{
+            visibility: visible;
+            opacity: 1;
+          }
+        }
+      }
+      &:hover{
+        > .element-editor-tools{
+          visibility: visible;
+          opacity: 1;
+        }
+      }
+    }
+    .element-content-wrap{
+      padding: 0 10px;
+      .element-content-inner{
+        &:not(:last-child){
+          margin-bottom: 10px;
+        }
+        transition: .1s ease;
+        -webkit-transition: .1s ease;
+        &:hover{
+          outline: 1px solid $backend_color_1;
+        }
+      }
+    }
+    .element-no-widget-wrap{
+      padding: 10px;
+      &:hover{
+        outline: 1px dashed rgba(1,1,1,.8);
+      }
+      .elementor-first-add{
+        padding: 30px;
+        text-align: center;
+        outline: 1px dashed rgba(1,1,1,.2);
+      }
+    }
+  }
+}
+
+.element-editor-tools{
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  left: 0px;
+  top: -20px;
+  z-index: 10;
+  margin: 0;
+  line-height: 0;
+  transition: .1s ease;
+  border-radius: 2px 2px 0 0;
+  overflow: hidden;
+  white-space: nowrap;
+  @include clearfix;
+  &.control-rs-row{
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+  }
+  &.control-rs-col{
+    top: 0;
+    left: -1px;
+    border-radius: 0 0 2px 0;
+    overflow: hidden;
+    width: 24px;
+    height: 20px;
+    &:hover{
+      width: auto;
+    }
+  }
+  li{
+    cursor: pointer;
+    margin: 0;
+    background: $backend_color_1;
+    color: #FFF;
+    float: left;
+    transition: .3s ease;
+    -webkit-transition: .3s ease;
+    &:hover{
+      background: darken($backend_color_1, 10%);
+    }
+    span{
+      width: 24px;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      font-size: 11px;
+      display: inline-block;
+    }
+    &.sort-item{
+      cursor: move;
+    }
+    &.remove-item{
+
+    }
+  }
+}
+
+.theme-extends-grid-template{
+  &:hover{
+    .theme-extends-custom-el-row{
+      opacity: .4;
+    }
+  }
+}
+
+.theme-extends-input-add-custom-row{
+  box-shadow: none;
+  font-weight: 300;
+  background: #ecf2f9;
+  border-radius: 3px;
+  border: none;
+  text-align: center;
+  padding: 10px;
+  display: block;
+  width: 100%;
+  &:focus{
+    box-shadow: none;
+    outline: none;
+  }
+}
+
+/**
+ * popup edit element wrap
+ */
+.popup-edit-element-wrap{
+  position: fixed;
+  z-index: 999999;
+  top: 30px;
+  left: 500px;
+  background: #fff;
+  width: 380px;
+  box-sizing: border-box;
+  box-shadow: 0 0 30px 0 rgba(1,1,1,.15);
+  .close-popup{
+    position: absolute;
+    right: -15px;
+    top: -15px;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    border-radius: 26px;
+    text-align: center;
+    z-index: 3;
+    background: #333;
+    color: #FFF;
+    font-size: 9px;
+    cursor: pointer;
+  }
+  .popup-title{
+    padding: 10px 20px;
+    font-size: 18px;
+    // border-bottom: solid 1px #efefef;
+    background: $backend_color_1;
+    color: #FFF;
+  }
+  .popup-body{
+    // padding: 20px;
+    .wp-widget-fields{
+      padding: 20px;
+      .btn-apply{
+        background: $backend_color_1;
+        color: #fff;
+        border-radius: 30px;
+        border: none;
+        line-height: normal;
+        padding: 10px 28px;
+        margin-top: 10px;
+        padding-top: 10px;
+        cursor: pointer;
+        outline: none;
+        transition: .3s ease;
+        -webkit-transition: .3s ease;
+        i.el-icon-loading{
+          margin-left: 6px;
+        }
+        @include btn-shadow-effect-hover($backend_color_1);
+      }
+      .widget-inside{
+        padding: 0;
+        border: none;
+        box-shadow: none;
+        max-height: 450px;
+        overflow: auto;
+        .media-widget-control{
+          &.selected{
+            display: block;
+            .media-widget-preview{
+              background: #eee;
+              line-height: 0;
+            }
+            .media-widget-buttons{
+              .button{
+                margin: 8px 12px 0 0;
+              }
+            }
+          }
+        }
+      }
+      .field-wrap{
+        .wp-widget-form{
+          p{
+            margin: 0;
+            margin-bottom: ms(-1);
+          }
+          label{
+            display: block;
+            margin-bottom: 10px;
+          }
+          input[type="text"],
+          input[type="number"],
+          textarea,
+          select{
+            height: 36px;
+            padding: 3px 10px;
+            box-shadow: none;
+            outline: none;
+            width: calc(100% - 2px);
+            transition: .3s ease;
+            -webkit-transition: .3s ease;
+            border-radius: 0;
+            &:focus,
+            &:active{
+              border-color: $backend_color_1;
+            }
+          }
+          input[type="checkbox"]{
+            + label{
+              display: inline-block;
+              vertical-align: middle;
+              margin: 0;
+            }
+          }
+          textarea{
+            height: 200px;
+          }
+          select{
+            -webkit-appearance: none;
+            appearance: none;
+            background: url('../images/svg-icons/down-chevron.svg') no-repeat;
+            background-size: 10px;
+            background-position: calc(100% - 10px) 50%;
+          }
+        }
+      }
+    }
+    .el-tabs{
+      .el-tabs__header{
+        .el-tabs__active-bar{
+          background-color: $backend_color_1;
+        }
+        .el-tabs__item{
+          height: 46px;
+          line-height: 46px;
+          &.is-active{
+            color: $backend_color_1;
+          }
+          span{
+            display: block;
+            i{
+              display: inline-block;
+              margin-right: 4px;
+            }
+          }
+        }
+      }
+      .el-tabs__content{
+        padding: 0 20px 20px;
+        min-height: 150px;
+        max-height: 450px;
+        overflow: auto;
+      }
+    }
+  }
+}

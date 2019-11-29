@@ -1,0 +1,137 @@
+.woocommerce{
+  &.tinv-wishlist{
+    .tinv-header{
+      margin-bottom: 50px;
+      text-align: center;
+      h2{
+        font-weight: bold;
+        font-size: ms(4);
+      }
+    }
+    .stock{
+      &.in-stock{
+        font-size: 12px;
+        border: solid 2px;
+        padding: 2px 6px;
+        font-weight: bold;
+        i{
+          margin-right: 6px;
+        }
+      }
+    }
+    .cart-empty,
+    .return-to-shop{
+      text-align: center;
+    }
+    a.button,
+    button.button{
+      font-weight: normal;
+      border-radius: 2px;
+    }
+    .input-group{
+      select#tinvwl_product_actions{
+        height: auto;
+
+        outline: none;
+        border: solid 1px #333;
+        background: none;
+        -webkit-appearance: none;
+        appearance: none;
+        font-weight: bold;
+        border-radius: 2px;
+        padding: 9px 12px;
+        font-size: 12px;
+        text-transform: uppercase;
+        color: #333;
+        background: url('../images/svg-icons/down-chevron.svg');
+        background-position: calc(100% - 10px) center;
+        background-size: 12px;
+        background-repeat: no-repeat;
+      }
+      .input-group-btn{
+        font-size: normal;
+        display: inline-block;
+
+        button[type="submit"]{
+          background: #222;
+          color: #FFF;
+          font-size: 16px;
+        }
+      }
+    }
+    .social-buttons{
+      margin: 50px;
+      float: none;
+      text-align: center;
+      font-size: 11px;
+      font-weight: bold;
+      text-transform: uppercase;
+      a{
+        text-decoration: none;
+        transition: .3s ease;
+        -webkit-transition: .3s ease;
+      }
+    }
+  }
+}
+
+.tinvwl_added_to_wishlist.tinv-modal.tinv-modal-open{
+  .tinv-table{
+    .tinv-cell{
+      .tinv-modal-inner{
+        .tinvwl-buttons-group{
+          .button{
+            width: 100%;
+            background: transparent;
+            border: solid 2px #333;
+            border-radius: 0;
+            font-size: 11px;
+            text-transform: uppercase;
+            padding: 10px 0;
+            transition: .3s ease;
+            -webkit-transition: .3s ease;
+            color: #222;
+            i{
+              display: none;
+            }
+            &:hover{
+              background: #222;
+              color: #FFF;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Wishlist table 
+.tinv-wishlist th.product-action{
+  width: 160px;
+}
+
+form{
+  table.tinvwl-table-manage-list{
+    button[type="submit"] {
+      background: #222;
+      transition: .3s ease;
+      -webkit-transition: .3s ease;
+      color: #FFF;
+      &:hover{
+        color: #FFF;
+        background: #444;
+      }
+    }
+    td.product-remove{
+      button[type="submit"] {
+        padding-left: 0; 
+      }
+    }
+  }
+}
+
+#page{
+  .tinv-wishlist .tinv-modal{
+    z-index: 999999;
+  }
+}

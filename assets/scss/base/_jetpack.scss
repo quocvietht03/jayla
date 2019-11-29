@@ -1,0 +1,22 @@
+/**
+ * Contact Form
+ */
+form.contact-form{
+    > div {
+        > input[type="text"],
+        > input[type="email"],
+        > input[type="phone"],
+        > input[type="url"],
+        > select,
+        > textarea {
+            width: 100%;
+            max-width: none;
+            margin-bottom: 15px !important;
+        }
+    }
+    .contact-submit{
+        input[type="submit"] {
+            width: 100%;
+        }
+    }
+} 

@@ -1,0 +1,22 @@
+body,
+#page{
+  position: relative;
+}
+
+#page .container-fullwidth-no-padding{
+  padding: 0;
+}
+
+/* Container large */
+.container-large{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 62px;
+  padding-left: 62px;
+  max-width: $container_large;
+  @media (max-width: 767px) {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}

@@ -1,0 +1,71 @@
+.el-bears-color-picker{
+    position: relative;
+    display: inline-block;
+    margin-top: 4px;
+    .clear-color{
+      position: absolute;
+      right: -10px;
+      top: -8px;
+      line-height: 0;
+      padding: 8px 5px 10px;
+      border-radius: 20px;
+      background: #1e1e1e;
+      color: #ffffff;
+      cursor: pointer;
+    }
+    .bears-color-picker-btn{
+      padding: 6px;
+      line-height: 0;
+      border-radius: 1px !important;
+      .__icon{
+        font-size: 10px; 
+        display: inline-block;
+        padding: 0 4px;
+        vertical-align: middle;
+      }
+    }
+    .el-color-bg{
+      display: inline-block;
+      box-sizing: border-box;
+      border: 1px solid #666;
+      width: 22px;
+      height: 22px;
+      vertical-align: middle;
+      &.__color_empty{
+        position: relative;
+        background: #FFF;
+        color: #000;
+        &:after{
+          content: "×";
+          font-size: 20px;
+          position: absolute;
+          left: 50%;
+          top: 45%;
+          transform: translate(-50%, -50%);
+          -webkit-transform: translate(-50%, -50%);
+        }
+      }
+    }
+  }
+  .popup-bears-color-picker{
+    z-index: 999999 !important;
+    width: auto !important;
+    background: #FFF;
+    border: none !important;
+    box-shadow: 0 0 2px rgba(0,0,0,.3), 0 4px 8px rgba(0,0,0,.3);
+    .popper__arrow{
+      display: none !important;
+    }
+    .btn-actions-wrap{
+      text-align: center;
+      padding-top: 6px;
+      border-top: 1px solid #e6e6e6;
+      .confirm-btn{
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+    }
+    .vc-chrome{
+      box-shadow: none !important;
+    }
+  }

@@ -1,0 +1,31 @@
+.vc_welcome{
+  /* Fix logo center frontend builder */
+  img{
+    display: unset;
+  }
+}
+
+.bevc_products_listing{
+  &.element-layout-default{
+    a{
+      text-decoration: none;
+      .product-title{
+        transition: .3s ease;
+        -webkit-transition: .3s ease;
+      }
+      &:hover{
+        .product-title{
+          color: $color_links_on_hover !important;
+        }
+      }
+    }
+    .amount{
+      font-size: 1.1em;
+    }
+    del{
+      .amount{
+        color: #777;
+      }
+    }
+  }
+}

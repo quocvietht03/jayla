@@ -1,0 +1,4680 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Jayla\n"
+"POT-Creation-Date: 2018-08-22 11:08+0700\n"
+"PO-Revision-Date: 2018-08-22 11:07+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr ""
+
+#: 404.php:27 inc/theme-functions.php:311
+#: inc/widgets/class-widget-search.php:23
+msgid "Search"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: customize/jayla-functions.php:9 customize/jayla-functions.php:193
+#: customize/jayla-functions.php:287 customize/jayla-functions.php:351
+msgid "Jayla"
+msgstr ""
+
+#: customize/jayla-functions.php:10
+msgid "Jayla Layout 2"
+msgstr ""
+
+#: customize/jayla-functions.php:32
+msgid "Trending Products"
+msgstr ""
+
+#: customize/jayla-functions.php:36 customize/jayla-functions.php:55
+msgid "All"
+msgstr ""
+
+#: customize/jayla-functions.php:37 customize/jayla-functions.php:56
+msgid "Featured"
+msgstr ""
+
+#: customize/jayla-functions.php:38 customize/jayla-functions.php:57
+msgid "On-sale"
+msgstr ""
+
+#: customize/jayla-functions.php:39 customize/jayla-functions.php:58
+msgid "Best selling"
+msgstr ""
+
+#: customize/jayla-functions.php:40 customize/jayla-functions.php:59
+msgid "Top rate"
+msgstr ""
+
+#: customize/jayla-functions.php:169
+msgid "Product category image"
+msgstr ""
+
+#: customize/jayla-functions.php:173
+msgid "Product category entry wrap"
+msgstr ""
+
+#: customize/jayla-functions.php:177
+msgid "Product category entry title"
+msgstr ""
+
+#: customize/jayla-functions.php:181
+msgid "Product category entry subtitle"
+msgstr ""
+
+#: customize/jayla-functions.php:185
+msgid "Product category grid item"
+msgstr ""
+
+#: customize/jayla-functions.php:194
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-functions.php:51
+msgid "Layout 2"
+msgstr ""
+
+#: customize/jayla-functions.php:407 customize/jayla-functions.php:422
+#: customize/jayla-functions.php:437 customize/jayla-functions.php:452
+#: customize/jayla-functions.php:467 customize/jayla-functions.php:482
+msgid "Animate delay (s). Example: 0.5"
+msgstr ""
+
+#: customize/jayla-functions.php:414 customize/jayla-functions.php:429
+#: customize/jayla-functions.php:444 customize/jayla-functions.php:459
+#: customize/jayla-functions.php:474 customize/jayla-functions.php:489
+msgid "Animate duration (s). Example: 0.6"
+msgstr ""
+
+#: footer.php:17
+msgid "Footer"
+msgstr ""
+
+#: inc/class-theme-init.php:80
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-theme-init.php:81
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/class-theme-init.php:82
+msgid "Handheld Menu"
+msgstr ""
+
+#: inc/class-theme-init.php:131
+#: inc/customizer/global/class-global-control.php:66
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:50
+msgid "Sidebar"
+msgstr ""
+
+#: inc/class-theme-init.php:138
+msgid "Widget container"
+msgstr ""
+
+#: inc/class-theme-init.php:139
+msgid "Widget link"
+msgstr ""
+
+#: inc/class-theme-init.php:140
+msgid "Widget link on :hover"
+msgstr ""
+
+#: inc/class-theme-init.php:146
+msgid "Sidebar widget"
+msgstr ""
+
+#: inc/class-theme-init.php:148
+msgid "Widget title"
+msgstr ""
+
+#: inc/class-theme-init.php:169
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/class-theme-init.php:226 inc/template-functions.php:841
+#: inc/woocommerce/class-theme-woocommerce.php:61
+msgid "Next"
+msgstr ""
+
+#: inc/class-theme-init.php:227
+msgid "Prev"
+msgstr ""
+
+#: inc/class-theme-init.php:228
+msgid "More"
+msgstr ""
+
+#: inc/class-theme-init.php:229
+msgid "Filter"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:23
+#: inc/class/class-delipress-newsletter-lightbox.php:31
+msgid "Newsletter Lightbox"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:26
+msgid "General Settings"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:29
+msgid ""
+"Newsletter general settings, edit heading text and content for lightbox "
+"newsletter."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:33
+#: inc/data-core/widgets/widget-search-params.php:27
+msgid "Disable"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:34
+#: inc/data-core/widgets/widget-search-params.php:28
+msgid "Enable"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:37
+msgid "On/Off Newsletter lightbox."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:39
+#: inc/widgets/class-widget-deliperss-mini-form.php:24
+#: inc/widgets/class-widget-delipress-custom-form.php:24
+msgid "Delipress List"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:41
+#: inc/widgets/class-widget-deliperss-mini-form.php:26
+#: inc/widgets/class-widget-delipress-custom-form.php:26
+msgid "- Select delipress list -"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:43
+msgid "Newsletter Lightbox Show By"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:45
+msgid "After how many seconds"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:50
+msgid "Select type for show newsletter lightbox."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:52
+msgid "Seconds (s)"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:63
+msgid "Enter number delay to show Newsletter Lightbox."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:65
+msgid "Percen of page scroll down to show (%)"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:76
+msgid "Enter number scrolldown percen of page to show Newsletter Lightbox."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:78
+msgid "Select layout"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:80
+msgid "Default — 2 Columns Form & Image"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:84
+msgid "Select a layout for Newsletter lightbox."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:96
+msgid "Newsletter Heading Text"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:97
+msgid "Subscribe to our newsletters"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:98
+msgid "Enter your heading text."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:100
+msgid "Newsletter Content"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:101
+msgid "Join our newsletter to stay on top of current information and events."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:102
+msgid "Enter your content."
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:104
+#: inc/widgets/class-widget-deliperss-mini-form.php:29
+#: inc/widgets/class-widget-delipress-custom-form.php:36
+msgid "Success Message"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:107
+#: inc/widgets/class-widget-deliperss-mini-form.php:31
+#: inc/widgets/class-widget-delipress-custom-form.php:38
+msgid "You Have Successfully Subscribed to the Newsletter"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:109
+#: inc/widgets/class-widget-deliperss-mini-form.php:32
+#: inc/widgets/class-widget-delipress-custom-form.php:39
+msgid "Error Message"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:112
+#: inc/theme-functions.php:2634
+#: inc/widgets/class-widget-deliperss-mini-form.php:34
+#: inc/widgets/class-widget-delipress-custom-form.php:41
+msgid "Unsuccessful, please try again another time!"
+msgstr ""
+
+#: inc/class/class-delipress-newsletter-lightbox.php:125
+msgid "Please select a Delipress List ID!"
+msgstr ""
+
+#: inc/class/class-footer-render.php:20
+msgid "Footer Main"
+msgstr ""
+
+#: inc/class/class-header-render.php:36
+msgid "Header Main"
+msgstr ""
+
+#: inc/class/class-header-render.php:38 inc/class/class-header-render.php:40
+#: inc/customizer/header/templates/header-configurator.php:44
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/class/class-plugin-install-helper.php:118
+msgid "Plugin is already installed."
+msgstr ""
+
+#: inc/class/class-plugin-install-helper.php:147
+#, php-format
+msgid "It was not possible to activate %s. Because it isn't installed."
+msgstr ""
+
+#: inc/class/class-plugin-install-helper.php:174
+msgid "Current user can't activate plugins."
+msgstr ""
+
+#: inc/class/class-plugin-install-helper.php:210
+#: inc/class/class-plugin-install-helper.php:214
+msgid ""
+"An unexpected error occurred. Something may be wrong with WordPress.org or "
+"this server&#8217;s configuration. If you continue to have problems, please "
+"try the <a href=\"http://wordpress.org/support/\">support forums</a>."
+msgstr ""
+
+#: inc/class/class-setup.php:32 inc/class/class-setup.php:33
+#: inc/class/class-setup.php:48
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/class/class-setup.php:34
+msgid "edit_theme_options"
+msgstr ""
+
+#: inc/class/class-setup.php:35
+msgid "theme___setup"
+msgstr ""
+
+#: inc/class/class-term-meta.php:32
+msgid "Background Image Heading Bar"
+msgstr ""
+
+#: inc/class/class-term-meta.php:38 inc/class/class-term-meta.php:89
+#: inc/theme-functions.php:2506
+msgid "Global"
+msgstr ""
+
+#: inc/class/class-term-meta.php:39
+#: inc/customizer/global/class-global-control.php:150
+#: inc/customizer/heading-bar/class-heading-bar-control.php:65
+#: inc/customizer/heading-bar/class-heading-bar-control.php:83
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:110
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:128
+#: inc/template-functions.php:1271 inc/template-functions.php:1289
+msgid "Color"
+msgstr ""
+
+#: inc/class/class-term-meta.php:40
+#: inc/customizer/heading-bar/class-heading-bar-control.php:66
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:111
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:39
+#: inc/template-functions.php:1272 inc/widgets/class-widget-branding.php:26
+#: inc/widgets/class-widget-images-slide.php:26
+msgid "Image"
+msgstr ""
+
+#: inc/class/class-term-meta.php:41
+#: inc/customizer/heading-bar/class-heading-bar-control.php:67
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:112
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:36
+#: inc/template-functions.php:1273
+msgid "Video"
+msgstr ""
+
+#: inc/class/class-term-meta.php:44
+msgid "Select a type for heading bar background type."
+msgstr ""
+
+#: inc/class/class-term-meta.php:47
+msgid "Heading - Background Color"
+msgstr ""
+
+#: inc/class/class-term-meta.php:58
+msgid "Select a color for override heading bar background color."
+msgstr ""
+
+#: inc/class/class-term-meta.php:61
+msgid "Heading - Background Image"
+msgstr ""
+
+#: inc/class/class-term-meta.php:71
+msgid "Select image for override heading bar background image."
+msgstr ""
+
+#: inc/class/class-term-meta.php:74
+msgid "Heading - Background Video"
+msgstr ""
+
+#: inc/class/class-term-meta.php:84
+msgid "Entenr a video url for override heading bar background video."
+msgstr ""
+
+#: inc/class/class-term-meta.php:90
+#: templates/admin/content-requirements.php:251
+#: templates/admin/content-requirements.php:275
+#: templates/admin/content-requirements.php:372
+msgid "Yes"
+msgstr ""
+
+#: inc/class/class-term-meta.php:91
+#: templates/admin/content-requirements.php:262
+#: templates/admin/content-requirements.php:286
+#: templates/admin/content-requirements.php:361
+msgid "No"
+msgstr ""
+
+#: inc/class/class-term-meta.php:94
+msgid "On / Off background overlay."
+msgstr ""
+
+#: inc/class/class-term-meta.php:97
+msgid "Heading - Overlay B-Color"
+msgstr ""
+
+#: inc/class/class-term-meta.php:108
+msgid "Select a color for heading bar overlay background color."
+msgstr ""
+
+#: inc/configuration-required.php:16
+msgid "Jayla — Furniture"
+msgstr ""
+
+#: inc/configuration-required.php:17
+msgid ""
+"Include 2 layout home page demo, blog and product, Lookbook, Portfolio. "
+"Header and Footer demo layouts"
+msgstr ""
+
+#: inc/configuration-required.php:20 inc/configuration-required.php:75
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/configuration-required.php:25 inc/configuration-required.php:81
+msgid "WP Bakery (Visual Composer page builder)"
+msgstr ""
+
+#: inc/configuration-required.php:30 inc/configuration-required.php:99
+msgid "Bears Element (Visual Composer)"
+msgstr ""
+
+#: inc/configuration-required.php:35 inc/configuration-required.php:124
+msgid "Bears Lookbook"
+msgstr ""
+
+#: inc/configuration-required.php:40 inc/configuration-required.php:177
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/configuration-required.php:44 inc/configuration-required.php:182
+msgid "WooCommerce PayPal Express Checkout Payment Gateway"
+msgstr ""
+
+#: inc/configuration-required.php:48 inc/configuration-required.php:186
+msgid "WooCommerce Stripe Payment Gateway"
+msgstr ""
+
+#: inc/configuration-required.php:52 inc/configuration-required.php:190
+msgid "WooCommerce Wishlist Plugin"
+msgstr ""
+
+#: inc/configuration-required.php:56 inc/configuration-required.php:148
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/configuration-required.php:60 inc/configuration-required.php:153
+msgid "Custom Sidebars – Dynamic Widget Area Manager"
+msgstr ""
+
+#: inc/configuration-required.php:64 inc/configuration-required.php:158
+msgid "DeliPress – Newsletters and Opt-In forms"
+msgstr ""
+
+#: inc/configuration-required.php:87
+msgid "Essential Grid"
+msgstr ""
+
+#: inc/configuration-required.php:93
+msgid "Woocommerce Product Filter"
+msgstr ""
+
+#: inc/configuration-required.php:104 inc/setup-helpers.php:148
+msgid "Bears Backup"
+msgstr ""
+
+#: inc/configuration-required.php:109
+msgid "Bears Social Sharing"
+msgstr ""
+
+#: inc/configuration-required.php:114
+msgid "Bears Mega Menu"
+msgstr ""
+
+#: inc/configuration-required.php:119
+msgid "Bears Product Quick View (WooCommerce)"
+msgstr ""
+
+#: inc/configuration-required.php:129
+msgid "WooCommerce Variation Swatches & Photos"
+msgstr ""
+
+#: inc/configuration-required.php:134
+msgid "Bears WooCommerce Swatches on Product Listing Page"
+msgstr ""
+
+#: inc/configuration-required.php:139
+msgid "WooCommerce Product Bundles"
+msgstr ""
+
+#: inc/configuration-required.php:163
+msgid "Jetpack by WordPress.com"
+msgstr ""
+
+#: inc/configuration-required.php:168
+msgid "Yoast SEO"
+msgstr ""
+
+#: inc/configuration-required.php:173
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: inc/configuration-required.php:194
+msgid "WP Fastest Cache"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:14
+msgid "Options control blog archive & detail."
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:24
+msgid "Blog Archive"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:27
+#: inc/customizer/blog/class-blog-control.php:90
+#: inc/customizer/global/class-global-control.php:18
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:19
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:67
+#: inc/widgets/class-widget-language-switching.php:46
+#: inc/widgets/class-widget-menu-mega-dropdown.php:24
+#: inc/widgets/class-widget-minicart.php:24
+#: inc/widgets/class-widget-search.php:24
+#: inc/widgets/class-widget-wishlist-products-counter.php:24
+#: inc/woocommerce/customizer/class-woocommerce-control.php:39
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:42
+msgid "Category filter bar"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:47
+msgid "On/off category filter bar on top"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:52
+msgid "Filter style"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:54
+#: inc/data-core/widgets/widget-icon-font-params.php:39
+#: inc/data-core/widgets/widget-logo-params.php:27
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:65
+#: inc/data-core/widgets/widget-search-params.php:32
+#: inc/woocommerce/theme-woocommerce-template-functions.php:674
+msgid "Inline"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:55
+#: inc/customizer/global/class-global-control.php:22
+msgid "Select"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:66
+#: inc/widgets/class-widget-feature-box-slide.php:53
+#: inc/widgets/class-widget-instagram-gallery-grid.php:33
+#: inc/widgets/class-widget-instagram-slide.php:35
+#: inc/woocommerce/customizer/class-woocommerce-control.php:20
+msgid "Columns"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:68
+msgid "Grid column on desktop"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:71
+msgid "Columns tablet"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:73
+msgid "Responsive grid column on tablet"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:76
+msgid "Columns mobile"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:78
+msgid "Responsive grid column on mobile"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:87
+msgid "Blog Detail"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:103
+msgid "Post Headings"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:108
+msgid "On/off post headings"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:111
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:116
+msgid "On/off navigation older & newer"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:119
+msgid "Post related"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:124
+msgid "On/off post related"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:129
+msgid "Post related image placeholder"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:134
+msgid "On/off post related image placeholder"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:137
+msgid "Post related limit"
+msgstr ""
+
+#: inc/customizer/blog/class-blog-control.php:139
+msgid "Post related limit (min => 1 | max => 6)"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:253
+msgid "🌎 Global"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:277
+msgid "💡 Designer"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:314
+msgid "⚡ Header"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:315
+msgid "Customize the look & feel of your website header."
+msgstr ""
+
+#: inc/customizer/class-customizer.php:349
+msgid "⚡ Heading Bar (Page, Single)"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:401
+msgid "⚡ Taxonomy & Archive Heading Bar"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:429
+msgid "⚡ Footer"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:463
+msgid "📝 Blog"
+msgstr ""
+
+#: inc/customizer/designer/class-designer-control.php:17
+msgid "Select design element"
+msgstr ""
+
+#: inc/customizer/designer/class-designer-control.php:34
+msgid "Add a Style"
+msgstr ""
+
+#: inc/customizer/designer/class-designer-control.php:39
+msgid ""
+"Select an editable element on your page to the right to adjust its "
+"properties."
+msgstr ""
+
+#: inc/customizer/designer/class-designer-control.php:45
+msgid "Select item for design!"
+msgstr ""
+
+#: inc/customizer/designer/class-designer-control.php:71
+msgid "Back"
+msgstr ""
+
+#: inc/customizer/designer/class-designer-control.php:91
+msgid "Add Style"
+msgstr ""
+
+#: inc/customizer/footer/class-footer-control.php:11
+msgid "Footer Customizer"
+msgstr ""
+
+#: inc/customizer/footer/class-footer-control.php:14
+msgid ""
+"The Footer Customizer allows you to creative footer layout with drag-drop "
+"the components."
+msgstr ""
+
+#: inc/customizer/footer/class-footer-control.php:26
+#: inc/customizer/header/class-header-builder-control.php:26
+msgid "Editing..."
+msgstr ""
+
+#: inc/customizer/footer/class-footer-control.php:32
+#: inc/customizer/header/class-header-builder-control.php:32
+msgid "edit"
+msgstr ""
+
+#: inc/customizer/footer/class-footer-control.php:33
+#: inc/customizer/header/class-header-builder-control.php:33
+msgid "remove"
+msgstr ""
+
+#: inc/customizer/footer/class-footer-control.php:43
+#: inc/customizer/header/class-header-builder-control.php:43
+msgid "New layout"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:8
+#: inc/customizer/header/templates/header-configurator.php:8
+#: inc/template-functions.php:2527
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:12
+#: inc/customizer/header/templates/header-configurator.php:12
+msgid "Update & Close"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:17
+msgid ""
+"Allow creating layout footer easy, start with new row & columns, use "
+"components on the left sidebar by drag and drop."
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:21
+msgid "Input footer layout name"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:24
+msgid "You can view the tutorial settings footer at"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:24
+#: inc/customizer/header/templates/header-configurator.php:24
+msgid "here"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:24
+#: inc/customizer/header/templates/header-configurator.php:24
+msgid "and don't hesitate to contact us if you need help"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:37
+#: inc/customizer/header/templates/header-configurator.php:171
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/footer/templates/footer-configurator.php:41
+#: inc/customizer/header/templates/header-configurator.php:175
+msgid "WP Widgets"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:21
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:23
+#: inc/customizer/header/templates/header-configurator.php:66
+#: inc/data-core/widgets/widget-rs-row-params.php:22
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:24
+#: inc/customizer/header/templates/header-configurator.php:67
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:25
+#: inc/customizer/header/templates/header-configurator.php:68
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:27
+msgid "Select container width (Full width / Large / Medium)."
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:30
+msgid "Custom Width Container Large"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:32
+msgid "Enter custom width container larges (ex: 1230)."
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:38
+#: inc/template-functions.php:1161
+msgid "Select Layout"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:42
+#: inc/customizer/global/class-global-control.php:118
+#: inc/data-core/widgets/widget-base-element.php:102
+#: inc/data-core/widgets/widget-base-element.php:138
+#: inc/data-core/widgets/widget-base-element.php:174
+#: inc/data-core/widgets/widget-rs-col-params.php:27
+#: inc/data-core/widgets/widget-rs-col-params.php:48
+#: inc/data-core/widgets/widget-rs-row-params.php:36
+#: inc/data-core/widgets/widget-rs-row-params.php:48
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-functions.php:66
+#: inc/template-functions.php:1163 inc/theme-functions.php:255
+#: inc/widgets/class-widget-language-switching.php:48
+#: inc/widgets/class-widget-menu-mega-dropdown.php:26
+#: inc/widgets/class-widget-menu-mega-dropdown.php:76
+#: inc/widgets/class-widget-search.php:26
+#: inc/widgets/class-widget-wishlist-products-counter.php:26
+#: inc/woocommerce/customizer/class-woocommerce-control.php:47
+#: inc/woocommerce/theme-woocommerce-functions.php:270
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:43
+#: inc/customizer/global/class-global-control.php:49
+#: inc/customizer/global/class-global-control.php:55
+#: inc/customizer/global/class-global-control.php:75
+#: inc/customizer/global/class-global-control.php:81
+#: inc/customizer/global/class-global-control.php:87
+#: inc/customizer/global/class-global-control.php:119
+msgid "layout default"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:48
+msgid "Nav left"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:54
+msgid "Nav right"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:70
+msgid "Select Layout Sidebar"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:74
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:80
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:86
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:96
+#: inc/customizer/header/templates/header-configurator.php:36
+#: inc/customizer/header/templates/header-configurator.php:155
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:101
+msgid "On/Off sidebar sticky."
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:110
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:114
+msgid "Pagination Layout"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:129
+msgid "Scroll Top & Page Loading"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:132
+msgid "Scroll-Top"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:137
+msgid "On/Off scroll-top."
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:142
+msgid "Loading Top Bar"
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:147
+msgid "On/Off loading top bar."
+msgstr ""
+
+#: inc/customizer/global/class-global-control.php:152
+msgid "Select loading top bar color."
+msgstr ""
+
+#: inc/customizer/header/class-header-builder-control.php:11
+msgid "Header Customizer"
+msgstr ""
+
+#: inc/customizer/header/class-header-builder-control.php:14
+msgid ""
+"The Header Customizer allows you to creative header layout with drag-drop "
+"the components."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:17
+msgid ""
+"Allow creating layout header easy, start with new row & columns, use "
+"components on the left sidebar by drag and drop."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:21
+msgid "Input header layout name"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:24
+msgid ""
+"You can view the tutorial settings header (for desktop/sticky/tablet & "
+"mobile) at"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:29
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:251
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:34
+#: inc/customizer/header/templates/header-configurator.php:59
+msgid "Header Strip"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:35
+#: inc/customizer/header/templates/header-configurator.php:143
+msgid "Tablet & Mobile"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:46
+msgid "On/Off header sticky."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:52
+msgid "Header Tablet/Mobile show on width"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:54
+msgid "Header Tablet/Mobile transform on width."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:61
+msgid "On/Off header strip, display above header bar."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:64
+#: inc/customizer/header/templates/header-configurator.php:73
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:132
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:70
+msgid "Select options boxed or full-width content."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:84
+msgid "Enter content header strip."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:87
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:89
+msgid "On/Off button redirect."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:92
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:102
+msgid "Enter button text."
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:105
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:115
+msgid "Enter link redirect for button"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:118
+msgid "Button Close"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:120
+msgid "On/Off button close header strip"
+msgstr ""
+
+#: inc/customizer/header/templates/header-configurator.php:131
+#: inc/data-core/widgets/widget-base-element.php:73
+msgid "Desktop"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:14
+msgid "Options control page title & breadcrumb."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:19
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:64
+#: inc/template-functions.php:1224 inc/template-functions.php:1225
+msgid "Heading Bar"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:25
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:70
+#: inc/template-functions.php:1231
+msgid "show/hide heading bar."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:32
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:77
+#: inc/template-functions.php:1238
+msgid "Title Page"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:38
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:83
+#: inc/template-functions.php:1244
+msgid "show/hide title Page."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:41
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:86
+#: inc/template-functions.php:1247
+#: inc/woocommerce/theme-woocommerce-template-functions.php:410
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:47
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:92
+#: inc/template-functions.php:1253
+msgid "show/hide breadcrumb."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:52
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:97
+#: inc/data-core/widgets/widget-rs-row-params.php:31
+#: inc/template-functions.php:1258
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:54
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:99
+#: inc/data-core/widgets/widget-base-element.php:103
+#: inc/data-core/widgets/widget-base-element.php:139
+#: inc/data-core/widgets/widget-base-element.php:175
+#: inc/data-core/widgets/widget-rs-col-params.php:28
+#: inc/data-core/widgets/widget-rs-row-params.php:37
+#: inc/template-functions.php:1260
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:55
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:100
+#: inc/data-core/widgets/widget-base-element.php:104
+#: inc/data-core/widgets/widget-base-element.php:140
+#: inc/data-core/widgets/widget-base-element.php:176
+#: inc/data-core/widgets/widget-rs-col-params.php:29
+#: inc/data-core/widgets/widget-rs-row-params.php:38
+#: inc/template-functions.php:1261
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:56
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:101
+#: inc/data-core/widgets/widget-base-element.php:105
+#: inc/data-core/widgets/widget-base-element.php:141
+#: inc/data-core/widgets/widget-base-element.php:177
+#: inc/data-core/widgets/widget-rs-col-params.php:30
+#: inc/data-core/widgets/widget-rs-row-params.php:39
+#: inc/template-functions.php:1262
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:58
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:103
+#: inc/template-functions.php:1264
+msgid "choose content alignment."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:63
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:108
+#: inc/template-functions.php:1269
+msgid "Background Type"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:69
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:114
+#: inc/template-functions.php:1275
+msgid "choose background type."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:74
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:119
+#: inc/template-functions.php:1280
+msgid "Gradient"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:80
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:125
+#: inc/template-functions.php:1286
+msgid "on/off background gradient."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:86
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:131
+#: inc/template-functions.php:1291
+msgid "choose color."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:89
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:134
+#: inc/template-functions.php:1294
+msgid "Color 2"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:92
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:137
+#: inc/template-functions.php:1296
+msgid "choose color 2."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:100
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:145
+#: inc/template-functions.php:1308
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:101
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:146
+#: inc/template-functions.php:1309
+msgid "bg size"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:111
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:156
+#: inc/template-functions.php:1319
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:112
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:157
+#: inc/template-functions.php:1320
+msgid "bg position"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:122
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:167
+#: inc/template-functions.php:1330
+msgid "Repeat"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:123
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:168
+#: inc/template-functions.php:1331
+msgid "bg repeat"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:133
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:178
+#: inc/template-functions.php:1341
+msgid "Attachment"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:134
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:179
+#: inc/template-functions.php:1342
+msgid "bg attachment"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:144
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:189
+#: inc/template-functions.php:1352
+msgid "Parallax Effect"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:150
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:195
+#: inc/template-functions.php:1358
+msgid "on/off background parallax effect."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:156
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:201
+#: inc/template-functions.php:1364
+#: inc/woocommerce/theme-woocommerce-functions.php:400
+msgid "Video Url"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:163
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:208
+#: inc/template-functions.php:1368
+msgid "Use video url"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:164
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:209
+#: inc/template-functions.php:1369
+msgid "or"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:165
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:210
+#: inc/template-functions.php:1370
+msgid "for background and parallax effect auto enable."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:166
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:211
+#: inc/template-functions.php:1371
+msgid "https://www.youtube.com/watch?v=ab0TSkLe-E0"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:167
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:212
+#: inc/template-functions.php:1372
+msgid "https://vimeo.com/110138539"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:174
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:219
+#: inc/template-functions.php:1379
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:180
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:225
+#: inc/template-functions.php:1385
+msgid "on/off background overlay color."
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:183
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:228
+#: inc/template-functions.php:1388
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/customizer/heading-bar/class-heading-bar-control.php:186
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:231
+#: inc/template-functions.php:1390
+msgid "choose background overlay color."
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:14
+msgid "Options control taxonomy title & breadcrumb."
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:31
+msgid "Select taxonomy custom heading bar"
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:38
+msgid "New taxonomy options"
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:245
+msgid "Are you sure to remove this settings?"
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:247
+msgid "cancel"
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:248
+msgid "confirm"
+msgstr ""
+
+#: inc/customizer/taxonomy-heading-bar/class-taxonomy-heading-bar-control.php:251
+msgid "Remove"
+msgstr ""
+
+#: inc/data-core/core-widget-params.php:4
+#, php-format
+msgid "Copyright © %s %s eCommerce. Proudly powered by %s and %s."
+msgstr ""
+
+#: inc/data-core/taxonomy-heading-bar/default.php:4
+msgid "Settings General"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:33
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:24
+#: inc/widgets/class-widget-custom-menu.php:26
+#: inc/woocommerce/theme-woocommerce-template-functions.php:698
+msgid "Style"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:37
+#: inc/woocommerce/theme-woocommerce-template-functions.php:702
+msgid "Padding"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:38
+#: inc/woocommerce/theme-woocommerce-template-functions.php:703
+msgid "Add padding for element"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:44
+#: inc/woocommerce/theme-woocommerce-template-functions.php:709
+msgid "Margin"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:45
+#: inc/woocommerce/theme-woocommerce-template-functions.php:710
+msgid "Add margin for element"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:61
+msgid "Responsive"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:65
+msgid "Hidden On Device"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:66
+msgid "Select for hidden on device."
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:71
+msgid "Mobile"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:72
+msgid "Tablet"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:74
+msgid "Large Screen"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:81
+msgid "Medium Device"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:82
+msgid "On/off responsive on medium device."
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:87
+#: inc/data-core/widgets/widget-base-element.php:123
+#: inc/data-core/widgets/widget-base-element.php:159
+msgid "Width"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:88
+msgid "Enter width on medium device (unit %)"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:97
+#: inc/data-core/widgets/widget-base-element.php:133
+#: inc/data-core/widgets/widget-base-element.php:169
+#: inc/data-core/widgets/widget-rs-col-params.php:22
+msgid "Alignment"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:98
+#: inc/data-core/widgets/widget-base-element.php:134
+#: inc/data-core/widgets/widget-base-element.php:170
+#: inc/data-core/widgets/widget-rs-col-params.php:23
+#: inc/data-core/widgets/widget-rs-row-params.php:32
+#: inc/data-core/widgets/widget-rs-row-params.php:44
+msgid "Select alignment"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:117
+msgid "Small Device"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:118
+msgid "On/off responsive on small device."
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:124
+msgid "Enter width on small device (unit %)"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:153
+msgid "Extra Small"
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:154
+msgid "On/off responsive on extra small device."
+msgstr ""
+
+#: inc/data-core/widgets/widget-base-element.php:160
+msgid "Enter width on extra small device (unit %)"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:8
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:8
+#: inc/data-core/widgets/widget-icon-font-params.php:8
+#: inc/data-core/widgets/widget-logo-params.php:8
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:8
+#: inc/data-core/widgets/widget-primary-navigation-params.php:8
+#: inc/data-core/widgets/widget-rs-col-params.php:7
+#: inc/data-core/widgets/widget-rs-row-params.php:7
+#: inc/data-core/widgets/widget-search-params.php:8
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:8
+#: inc/meta-box/templates/customize.php:5
+#: inc/woocommerce/theme-woocommerce-template-functions.php:660
+#: vendor/htmlburger/carbon-fields/core/Container/Container.php:711
+msgid "General"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:12
+msgid "Facebook"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:13
+msgid "Enable Facebook."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:28
+msgid "Google"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:29
+msgid "Enable Google."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:44
+msgid "Twitter"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:45
+msgid "Enable Twitter."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:60
+msgid "Instagram"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:61
+msgid "Enable Instagram."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:76
+msgid "Pinterest"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:77
+msgid "Enable Pinterest."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:91
+msgid "Youtube"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:92
+msgid "Enable Youtube."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:106
+msgid "Vimeo"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:107
+msgid "Enable Vimeo."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:121
+msgid "Dribbble"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:122
+msgid "Enable Dribbble."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:136
+msgid "Behance"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:137
+msgid "Enable Behance."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:151
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:27
+#: inc/data-core/widgets/widget-icon-font-params.php:46
+#: inc/data-core/widgets/widget-logo-params.php:34
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:75
+#: inc/data-core/widgets/widget-primary-navigation-params.php:27
+#: inc/data-core/widgets/widget-rs-col-params.php:61
+#: inc/data-core/widgets/widget-rs-row-params.php:55
+#: inc/data-core/widgets/widget-search-params.php:39
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:27
+#: inc/woocommerce/theme-woocommerce-template-functions.php:681
+msgid "ID"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:152
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:28
+#: inc/data-core/widgets/widget-icon-font-params.php:47
+#: inc/data-core/widgets/widget-logo-params.php:35
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:76
+#: inc/data-core/widgets/widget-primary-navigation-params.php:28
+#: inc/data-core/widgets/widget-rs-col-params.php:62
+#: inc/data-core/widgets/widget-rs-row-params.php:56
+#: inc/data-core/widgets/widget-search-params.php:40
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:28
+#: inc/woocommerce/theme-woocommerce-template-functions.php:682
+msgid "Enter ID for element."
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:158
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:34
+#: inc/data-core/widgets/widget-icon-font-params.php:53
+#: inc/data-core/widgets/widget-logo-params.php:41
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:82
+#: inc/data-core/widgets/widget-primary-navigation-params.php:34
+#: inc/data-core/widgets/widget-rs-col-params.php:68
+#: inc/data-core/widgets/widget-rs-row-params.php:62
+#: inc/data-core/widgets/widget-search-params.php:46
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:34
+#: inc/woocommerce/theme-woocommerce-template-functions.php:688
+msgid "Extra Class"
+msgstr ""
+
+#: inc/data-core/widgets/widget-connect-social-params.php:159
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:35
+#: inc/data-core/widgets/widget-icon-font-params.php:54
+#: inc/data-core/widgets/widget-logo-params.php:42
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:83
+#: inc/data-core/widgets/widget-primary-navigation-params.php:35
+#: inc/data-core/widgets/widget-rs-col-params.php:69
+#: inc/data-core/widgets/widget-rs-row-params.php:63
+#: inc/data-core/widgets/widget-search-params.php:47
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:35
+#: inc/woocommerce/theme-woocommerce-template-functions.php:689
+msgid "Enter custom class for element."
+msgstr ""
+
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:12
+#: inc/data-core/widgets/widget-primary-navigation-params.php:12
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:12
+#: inc/widgets/class-widget-custom-menu.php:22
+#: inc/widgets/class-widget-custom-menu.php:62
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:13
+#: inc/data-core/widgets/widget-primary-navigation-params.php:13
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:13
+msgid "On/Off custom menu"
+msgstr ""
+
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:18
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:12
+#: inc/data-core/widgets/widget-primary-navigation-params.php:18
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:18
+#: inc/theme-functions.php:1454 inc/widgets/class-widget-custom-menu.php:23
+#: inc/widgets/class-widget-menu-mega-dropdown.php:124
+msgid "Menu"
+msgstr ""
+
+#: inc/data-core/widgets/widget-handheld-navigation-params.php:19
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:13
+#: inc/data-core/widgets/widget-primary-navigation-params.php:19
+#: inc/data-core/widgets/widget-secondary-navigation-params.php:19
+msgid "Select menu."
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:12
+msgid "Icon Class"
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:13
+msgid "Enter icon class (Ionicons, Fontawesome, Dashion)."
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:19
+msgid "Tooltip"
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:20
+msgid "Enter tooltip text."
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:26
+msgid "Direct Link"
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:27
+msgid "Enter direct link."
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:33
+msgid "Open on New Window"
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:34
+msgid "On/Off open direct link on new window."
+msgstr ""
+
+#: inc/data-core/widgets/widget-icon-font-params.php:40
+#: inc/data-core/widgets/widget-logo-params.php:28
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:66
+#: inc/data-core/widgets/widget-search-params.php:33
+#: inc/woocommerce/theme-woocommerce-template-functions.php:675
+msgid "element inline."
+msgstr ""
+
+#: inc/data-core/widgets/widget-logo-params.php:12
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/data-core/widgets/widget-logo-params.php:13
+msgid "Enable custom logo."
+msgstr ""
+
+#: inc/data-core/widgets/widget-logo-params.php:20
+msgid "Select branding image."
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:19
+msgid "No Menu"
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:25
+msgid "Select style offcanvs menu"
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:38
+msgid "Sidebar Before Nav"
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:39
+msgid "Select sidebar before nav"
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:45
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:57
+#: inc/template-functions.php:1198
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:50
+msgid "Sidebar After Nav"
+msgstr ""
+
+#: inc/data-core/widgets/widget-menu-offcanvas-params.php:51
+msgid "Select sidebar after nav"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:11
+#: inc/data-core/widgets/widget-rs-row-params.php:11
+msgid "Content Width"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:12
+#: inc/data-core/widgets/widget-rs-row-params.php:12
+msgid "Select content width boxed / full-width"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:37
+msgid "Widget Inner Inline"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:38
+msgid "On/Off inline widget(s) element on columns."
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:43
+msgid "Widget Vertical Align"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:44
+msgid "Select widget vertical align"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:49
+#: inc/data-core/widgets/widget-rs-row-params.php:49
+msgid "Top"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:50
+#: inc/data-core/widgets/widget-rs-row-params.php:50
+msgid "Middle"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-col-params.php:51
+#: inc/data-core/widgets/widget-rs-row-params.php:51
+msgid "Bottom"
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-row-params.php:23
+msgid "On/Off Row full width no padding."
+msgstr ""
+
+#: inc/data-core/widgets/widget-rs-row-params.php:43
+msgid "Columns Vertical Alignment"
+msgstr ""
+
+#: inc/data-core/widgets/widget-search-params.php:12
+msgid "Search Form Position"
+msgstr ""
+
+#: inc/data-core/widgets/widget-search-params.php:13
+msgid "Select position(left/right) form display (default: Left)"
+msgstr ""
+
+#: inc/data-core/widgets/widget-search-params.php:17
+#: inc/woocommerce/theme-woocommerce-template-functions.php:669
+msgid "Show on the left"
+msgstr ""
+
+#: inc/data-core/widgets/widget-search-params.php:18
+#: inc/woocommerce/theme-woocommerce-template-functions.php:670
+msgid "Show on the right"
+msgstr ""
+
+#: inc/data-core/widgets/widget-search-params.php:22
+msgid "Search On Type"
+msgstr ""
+
+#: inc/data-core/widgets/widget-search-params.php:23
+msgid "On/off ajax search on your text (default: Disable)"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:22
+msgid "Client Brand"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:23
+msgid "Client Name"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:24
+msgid "Client Website"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:29
+#: inc/widgets/class-widget-branding.php:22
+#: inc/widgets/class-widget-custom-menu.php:22
+#: inc/widgets/class-widget-deliperss-mini-form.php:22
+#: inc/widgets/class-widget-delipress-custom-form.php:22
+#: inc/widgets/class-widget-feature-box-slide.php:22
+#: inc/widgets/class-widget-images-slide.php:22
+#: inc/widgets/class-widget-instagram-gallery-grid.php:22
+#: inc/widgets/class-widget-instagram-slide.php:22
+#: inc/widgets/class-widget-language-switching.php:22
+#: inc/widgets/class-widget-menu-mega-dropdown.php:22
+#: inc/widgets/class-widget-minicart.php:22
+#: inc/widgets/class-widget-product-search.php:22
+#: inc/widgets/class-widget-recent-posts.php:22
+#: inc/widgets/class-widget-search.php:22
+#: inc/widgets/class-widget-wishlist-products-counter.php:22
+msgid "Title"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:30
+msgid "Name is a section not showing on frontend."
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:31
+msgid "Section Type"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:33
+msgid "Single Image"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:34
+msgid "Text Block"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:35
+msgid "Image Gallery Grid"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:54
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:33
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:70
+msgid "Video Type"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:72
+msgid "HTML5 Video"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:73
+msgid "Youtube or Vimeo"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:82
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:94
+msgid "Video Link"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:106
+msgid "Video Format"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:124
+msgid "Poster"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:140
+msgid "Caption"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:152
+msgid "Section(s)"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:165
+msgid "Project Start/End date"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:170
+msgid "Project Start Date"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:171
+msgid "Date of project start"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:172
+msgid "Project End Date"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:173
+msgid "Date of project end"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:176
+msgid "Portfolio Options - Info Project"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:178
+msgid "Client Info"
+msgstr ""
+
+#: inc/jetpack-portfolio/class-theme-jetpack-portfolio.php:179
+msgid "Project Section Entry"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:16
+msgid "Portfolio Archive"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:37
+msgid "Grid Columns On Tablet"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:41
+msgid "Grid Columns On Mobile"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:46
+msgid "Posts per page"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:56
+msgid "Control on / off sidebar"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:64
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:429
+msgid "Portfolio Single"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:80
+#: inc/template-functions.php:249 inc/template-functions.php:1664
+#: inc/template-functions.php:1909
+msgid "Comment"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-control.php:86
+msgid "Control on / off comment"
+msgstr ""
+
+#: inc/jetpack-portfolio/customizer/class-jetpack-portfolio-customizer.php:76
+msgid "Portfolio"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-functions.php:47
+msgid "Default (Grid)"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-functions.php:70
+msgid "Blank"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:157
+msgid "Project types:"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:157
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:217
+msgid ", "
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:174
+msgid "Client"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:178
+msgid "Website"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:197
+msgid "Date"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:200
+msgid "Start date"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:201
+msgid "End date"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:221
+msgid "Tags"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:239
+msgid "Information"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:431
+msgid "Custom Portfolio Single"
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:437
+msgid "on/off custom portfolio single page."
+msgstr ""
+
+#: inc/jetpack-portfolio/theme-jetpack-portfolio-template-functions.php:444
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1504
+msgid "Layout Product Detail"
+msgstr ""
+
+#: inc/setup-helpers.php:51
+msgid "Activated"
+msgstr ""
+
+#: inc/setup-helpers.php:58
+msgid "+ Active Now"
+msgstr ""
+
+#: inc/setup-helpers.php:66
+msgid "+ Install Now"
+msgstr ""
+
+#: inc/setup-helpers.php:160
+#, php-format
+msgid "Install & active plugin %s successful."
+msgstr ""
+
+#: inc/setup-helpers.php:163
+#, php-format
+msgid "Install & active plugin %s fail."
+msgstr ""
+
+#: inc/setup-helpers.php:167 inc/setup-helpers.php:286
+#, php-format
+msgid "Install plugin %s fail."
+msgstr ""
+
+#: inc/setup-helpers.php:174 inc/setup-helpers.php:296
+#, php-format
+msgid "Active plugin %s successful."
+msgstr ""
+
+#: inc/setup-helpers.php:177 inc/setup-helpers.php:299
+#, php-format
+msgid "Active plugin %s fail."
+msgstr ""
+
+#: inc/setup-helpers.php:200 inc/setup-helpers.php:203
+#: inc/setup-helpers.php:211 inc/setup-helpers.php:215
+#: inc/setup-helpers.php:224 inc/setup-helpers.php:227
+#, php-format
+msgid "Backup — %s"
+msgstr ""
+
+#: inc/setup-helpers.php:213
+msgid "Backup database and media successful 📦"
+msgstr ""
+
+#: inc/setup-helpers.php:253
+msgid "Install plugins include successful."
+msgstr ""
+
+#: inc/setup-helpers.php:271
+#, php-format
+msgid "Install plugin %s successful."
+msgstr ""
+
+#: inc/setup-helpers.php:311
+msgid "Install all plugins include successful."
+msgstr ""
+
+#: inc/setup-helpers.php:378
+msgid "Extract package demo fail."
+msgstr ""
+
+#: inc/setup-helpers.php:397
+msgid "Extract package demo successful."
+msgstr ""
+
+#: inc/setup-helpers.php:408
+msgid ""
+"Not found package demo ⚠️, please reload browser and try install again. Thank "
+"you!"
+msgstr ""
+
+#: inc/setup-helpers.php:443
+msgid "Install package demo successful. 👌"
+msgstr ""
+
+#: inc/setup-helpers.php:452
+msgid ""
+"Install package demo false 😢! Please try again in a few minutes or contact "
+"our support team. Thank you!"
+msgstr ""
+
+#: inc/setup-helpers.php:543
+#, php-format
+msgid "Downloading package — %s Mb / %s Mb (total)"
+msgstr ""
+
+#: inc/setup-helpers.php:570
+msgid "Download package successful."
+msgstr ""
+
+#: inc/setup-helpers.php:581
+#, php-format
+msgid "Downloading package — %s Mb"
+msgstr ""
+
+#: inc/template-functions.php:178
+msgid "Post entry meta wrap"
+msgstr ""
+
+#: inc/template-functions.php:182
+msgid "Post entry meta label"
+msgstr ""
+
+#: inc/template-functions.php:186
+msgid "Post entry meta link"
+msgstr ""
+
+#: inc/template-functions.php:190
+msgid "Post entry meta link (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:205
+msgid "Post entry meta"
+msgstr ""
+
+#: inc/template-functions.php:215 inc/theme-functions.php:2049
+msgid "Written by"
+msgstr ""
+
+#: inc/template-functions.php:226 inc/template-functions.php:2397
+#: inc/template-functions.php:2444 inc/theme-functions.php:2056
+msgid "Posted in"
+msgstr ""
+
+#: inc/template-functions.php:239 inc/template-functions.php:2407
+#: inc/template-functions.php:2454
+msgid "Tagged"
+msgstr ""
+
+#: inc/template-functions.php:250 inc/template-functions.php:2414
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-functions.php:250 inc/template-functions.php:2414
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-functions.php:250 inc/template-functions.php:2414
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-functions.php:281 inc/template-functions.php:525
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/template-functions.php:289 inc/template-functions.php:533
+#: inc/template-functions.php:822 inc/template-functions.php:992
+#: inc/template-functions.php:1029 inc/template-functions.php:2356
+#: templates/post/archive_clean/content.php:42 templates/post/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-functions.php:393
+msgid "Newer"
+msgstr ""
+
+#: inc/template-functions.php:394
+msgid "Older"
+msgstr ""
+
+#: inc/template-functions.php:480
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions.php:487
+msgid "Comment text"
+msgstr ""
+
+#: inc/template-functions.php:497
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions.php:657
+msgid "Breadcrumb container"
+msgstr ""
+
+#: inc/template-functions.php:658
+msgid "Breadcrumb item link"
+msgstr ""
+
+#: inc/template-functions.php:842
+#: inc/woocommerce/class-theme-woocommerce.php:62
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:846
+msgid "Pagination container"
+msgstr ""
+
+#: inc/template-functions.php:847
+msgid "Pagination Current"
+msgstr ""
+
+#: inc/template-functions.php:848
+msgid "Pagination Dots"
+msgstr ""
+
+#: inc/template-functions.php:849
+msgid "Pagination Link"
+msgstr ""
+
+#: inc/template-functions.php:850
+msgid "Pagination Link on :hover"
+msgstr ""
+
+#: inc/template-functions.php:871
+msgid "Header wrap"
+msgstr ""
+
+#: inc/template-functions.php:908 inc/template-functions.php:931
+msgid "Header strip button"
+msgstr ""
+
+#: inc/template-functions.php:912
+msgid "Header strip button (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:920
+msgid "Header strip"
+msgstr ""
+
+#: inc/template-functions.php:924
+msgid "Strip text"
+msgstr ""
+
+#: inc/template-functions.php:968 inc/template-functions.php:2332
+msgid "Post single content wrap"
+msgstr ""
+
+#: inc/template-functions.php:972 inc/template-functions.php:2336
+msgid "Post single content link"
+msgstr ""
+
+#: inc/template-functions.php:976 inc/template-functions.php:2340
+msgid "Post single content link (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:1049
+msgid "Custom Heading Bar"
+msgstr ""
+
+#: inc/template-functions.php:1055
+msgid "Enable custom heading bar setting tab."
+msgstr ""
+
+#: inc/template-functions.php:1072
+msgid "Custom Header"
+msgstr ""
+
+#: inc/template-functions.php:1078
+msgid "Enable custom header setting."
+msgstr ""
+
+#: inc/template-functions.php:1081
+msgid "Select Header"
+msgstr ""
+
+#: inc/template-functions.php:1090
+msgid "Select header."
+msgstr ""
+
+#: inc/template-functions.php:1107
+msgid "Custom Footer"
+msgstr ""
+
+#: inc/template-functions.php:1113
+msgid "Enable custom footer setting."
+msgstr ""
+
+#: inc/template-functions.php:1116
+msgid "Select Footer"
+msgstr ""
+
+#: inc/template-functions.php:1125
+msgid "Select footer."
+msgstr ""
+
+#: inc/template-functions.php:1142
+msgid "Custom Layout"
+msgstr ""
+
+#: inc/template-functions.php:1148
+msgid "Enable custom layout setting."
+msgstr ""
+
+#: inc/template-functions.php:1152
+msgid "Select Container Width"
+msgstr ""
+
+#: inc/template-functions.php:1153
+msgid "container width"
+msgstr ""
+
+#: inc/template-functions.php:1155
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/template-functions.php:1156
+msgid "Container Large"
+msgstr ""
+
+#: inc/template-functions.php:1157
+msgid "Container Medium"
+msgstr ""
+
+#: inc/template-functions.php:1162
+msgid "layout"
+msgstr ""
+
+#: inc/template-functions.php:1164
+msgid "Nav Left"
+msgstr ""
+
+#: inc/template-functions.php:1165
+msgid "Nav Right"
+msgstr ""
+
+#: inc/template-functions.php:1184
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:1190
+msgid "Enable custom sidebar setting."
+msgstr ""
+
+#: inc/template-functions.php:1194
+msgid "Select Sidebar Layout"
+msgstr ""
+
+#: inc/template-functions.php:1195
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/template-functions.php:1196
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:1197
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:1202
+msgid "Sidebar Sticky"
+msgstr ""
+
+#: inc/template-functions.php:1302
+#: inc/widgets/class-widget-menu-mega-dropdown.php:64
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:193
+msgid "Select Image"
+msgstr ""
+
+#: inc/template-functions.php:1412
+msgid ", Thank you!"
+msgstr ""
+
+#: inc/template-functions.php:1431
+msgid "Scroll top wrap"
+msgstr ""
+
+#: inc/template-functions.php:1435
+msgid "Scroll top wrap (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:1542
+msgid "Post grid cat wrap"
+msgstr ""
+
+#: inc/template-functions.php:1546
+msgid "Post grid cat item"
+msgstr ""
+
+#: inc/template-functions.php:1550
+msgid "Post grid cat item (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:1556
+msgid "Post grid term"
+msgstr ""
+
+#: inc/template-functions.php:1573 inc/template-functions.php:1582
+msgid "Post grid title"
+msgstr ""
+
+#: inc/template-functions.php:1577
+msgid "Post grid title (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:1602 inc/template-functions.php:1940
+msgid "Post by"
+msgstr ""
+
+#: inc/template-functions.php:1634
+msgid "Post grid entry wrap"
+msgstr ""
+
+#: inc/template-functions.php:1684
+msgid "Post grid item wrap"
+msgstr ""
+
+#: inc/template-functions.php:1688
+msgid "Post grid item wrap (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:1696
+msgid "Post grid item"
+msgstr ""
+
+#: inc/template-functions.php:1750
+msgid "Category"
+msgstr ""
+
+#: inc/template-functions.php:1752 inc/template-functions.php:1796
+msgid "Category filter"
+msgstr ""
+
+#: inc/template-functions.php:1754
+msgid "All Articles"
+msgstr ""
+
+#: inc/template-functions.php:1798
+msgid "Filter by"
+msgstr ""
+
+#: inc/template-functions.php:1800
+msgid "-- Select"
+msgstr ""
+
+#: inc/template-functions.php:1846 templates/post/archive_clean/content.php:13
+#: templates/post/content.php:12
+msgid "Post title"
+msgstr ""
+
+#: inc/template-functions.php:1879
+msgid "related post thumbnail"
+msgstr ""
+
+#: inc/template-functions.php:1893
+msgid "Related post category item link"
+msgstr ""
+
+#: inc/template-functions.php:1897
+msgid "Related post category item link (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:1902
+msgid "Related post category link item"
+msgstr ""
+
+#: inc/template-functions.php:1919 inc/template-functions.php:1936
+msgid "Related post title"
+msgstr ""
+
+#: inc/template-functions.php:1923
+msgid "Related post title (:hover)"
+msgstr ""
+
+#: inc/template-functions.php:2027 inc/template-functions.php:2046
+#: inc/template-functions.php:2388 inc/template-functions.php:2565
+#: inc/widgets/class-widget-recent-posts.php:62
+msgid "by"
+msgstr ""
+
+#: inc/template-functions.php:2383
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-functions.php:2478
+msgid "Like"
+msgstr ""
+
+#: inc/template-functions.php:2584
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: inc/template-functions.php:2585
+#, php-format
+msgid "%s Result for"
+msgid_plural "%s Results for:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions.php:2585
+msgid "Get All Results"
+msgstr ""
+
+#: inc/theme-fix.php:39
+msgid "Options"
+msgstr ""
+
+#: inc/theme-functions.php:228 inc/theme-functions.php:251
+msgid "Block entry content"
+msgstr ""
+
+#: inc/theme-functions.php:232
+msgid "Sticky entry meta"
+msgstr ""
+
+#: inc/theme-functions.php:236
+msgid "Sticky entry meta - no sidebar"
+msgstr ""
+
+#: inc/theme-functions.php:259
+msgid "Grid - Masonry"
+msgstr ""
+
+#: inc/theme-functions.php:276
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-functions.php:278
+msgid "brand your representation"
+msgstr ""
+
+#: inc/theme-functions.php:283
+msgid "Primary Navigation"
+msgstr ""
+
+#: inc/theme-functions.php:285
+msgid "Primary menu"
+msgstr ""
+
+#: inc/theme-functions.php:290
+msgid "Secondary Navigation"
+msgstr ""
+
+#: inc/theme-functions.php:292
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/theme-functions.php:297
+msgid "Handheld Navigation"
+msgstr ""
+
+#: inc/theme-functions.php:299
+msgid "Mobile menu"
+msgstr ""
+
+#: inc/theme-functions.php:304
+msgid "Menu Offcanvas"
+msgstr ""
+
+#: inc/theme-functions.php:306
+msgid "menu offcanvas style."
+msgstr ""
+
+#: inc/theme-functions.php:313
+msgid "Search (opt ajax)"
+msgstr ""
+
+#: inc/theme-functions.php:318
+msgid "Connect Social"
+msgstr ""
+
+#: inc/theme-functions.php:320
+msgid "facebook, google, etc."
+msgstr ""
+
+#: inc/theme-functions.php:325
+#: inc/widgets/class-widget-menu-mega-dropdown.php:54
+msgid "Icon Font"
+msgstr ""
+
+#: inc/theme-functions.php:327
+msgid "Icon font widget (Ionicon, Fontawesome)."
+msgstr ""
+
+#: inc/theme-functions.php:897
+msgid "Section Wrap"
+msgstr ""
+
+#: inc/theme-functions.php:1011
+msgid "Widget Wrap"
+msgstr ""
+
+#: inc/theme-functions.php:1015
+msgid "Widget Title"
+msgstr ""
+
+#: inc/theme-functions.php:1019
+msgid "Widget Link"
+msgstr ""
+
+#: inc/theme-functions.php:1023
+msgid "Widget Link:Hover"
+msgstr ""
+
+#: inc/theme-functions.php:1027
+msgid "Widget Nav Item"
+msgstr ""
+
+#: inc/theme-functions.php:1031
+msgid "Widget Nav Item:Hover"
+msgstr ""
+
+#: inc/theme-functions.php:1036
+msgid "Widget"
+msgstr ""
+
+#: inc/theme-functions.php:1070
+msgid "Side name"
+msgstr ""
+
+#: inc/theme-functions.php:1074
+msgid "Side description"
+msgstr ""
+
+#: inc/theme-functions.php:1087
+msgid "Branding image"
+msgstr ""
+
+#: inc/theme-functions.php:1094
+msgid "Site title / logo"
+msgstr ""
+
+#: inc/theme-functions.php:1136 inc/theme-functions.php:1214
+#: inc/theme-functions.php:1281
+msgid "Navigation Wrap"
+msgstr ""
+
+#: inc/theme-functions.php:1140 inc/theme-functions.php:1218
+#: inc/theme-functions.php:1285 inc/theme-functions.php:1406
+msgid "Navigation Item Link"
+msgstr ""
+
+#: inc/theme-functions.php:1144 inc/theme-functions.php:1222
+#: inc/theme-functions.php:1289 inc/theme-functions.php:1410
+msgid "Navigation Item Link (:hover)"
+msgstr ""
+
+#: inc/theme-functions.php:1148
+msgid "Navigation Item Link Current"
+msgstr ""
+
+#: inc/theme-functions.php:1152
+msgid "Navigation Item Link Current Parent"
+msgstr ""
+
+#: inc/theme-functions.php:1156 inc/theme-functions.php:1226
+#: inc/theme-functions.php:1293
+msgid "Navigation Sub-menu Wrap"
+msgstr ""
+
+#: inc/theme-functions.php:1160 inc/theme-functions.php:1230
+#: inc/theme-functions.php:1297 inc/theme-functions.php:1414
+msgid "Navigation Sub-menu Item Link"
+msgstr ""
+
+#: inc/theme-functions.php:1164 inc/theme-functions.php:1234
+#: inc/theme-functions.php:1301 inc/theme-functions.php:1418
+msgid "Navigation Sub-menu Item Link (:hover)"
+msgstr ""
+
+#: inc/theme-functions.php:1168
+msgid "Navigation Sub-menu Item Link Current"
+msgstr ""
+
+#: inc/theme-functions.php:1387
+msgid "Hamburger toggle menu offcanvas"
+msgstr ""
+
+#: inc/theme-functions.php:1391
+msgid "Hamburger toggle menu offcanvas (:hover)"
+msgstr ""
+
+#: inc/theme-functions.php:1395
+msgid "Button hamburger - 3 line"
+msgstr ""
+
+#: inc/theme-functions.php:1402 inc/theme-functions.php:1433
+msgid "Menu Offcanvas Container"
+msgstr ""
+
+#: inc/theme-functions.php:1454
+msgid "Please go to the"
+msgstr ""
+
+#: inc/theme-functions.php:1454
+msgid ""
+"section, create a  menu and then select the newly created menu from the "
+"Theme Locations box from the left."
+msgstr ""
+
+#: inc/theme-functions.php:1492 inc/theme-functions.php:1493
+msgid "Search wrap"
+msgstr ""
+
+#: inc/theme-functions.php:1494
+msgid "Search field"
+msgstr ""
+
+#: inc/theme-functions.php:1495
+msgid "Search background layout"
+msgstr ""
+
+#: inc/theme-functions.php:1502
+msgid "Search form"
+msgstr ""
+
+#: inc/theme-functions.php:1507
+msgid "What are you looking for?"
+msgstr ""
+
+#: inc/theme-functions.php:1545
+#: inc/widgets/class-widget-delipress-custom-form.php:27
+#: inc/widgets/class-widget-feature-box-slide.php:33
+#: inc/widgets/class-widget-feature-box-slide.php:41
+msgid "Icon"
+msgstr ""
+
+#: inc/theme-functions.php:1549
+msgid "Icon (:hover)"
+msgstr ""
+
+#: inc/theme-functions.php:1601
+msgid "Connect Social wrap"
+msgstr ""
+
+#: inc/theme-functions.php:1605
+msgid "Social item"
+msgstr ""
+
+#: inc/theme-functions.php:1609
+msgid "Social item (:hover)"
+msgstr ""
+
+#: inc/theme-functions.php:1644
+#: inc/widgets/class-widget-menu-mega-dropdown.php:50
+msgid "Menu Item"
+msgstr ""
+
+#: inc/theme-functions.php:1660
+msgid "Read more"
+msgstr ""
+
+#: inc/theme-functions.php:1702
+msgid "January"
+msgstr ""
+
+#: inc/theme-functions.php:1703
+msgid "February"
+msgstr ""
+
+#: inc/theme-functions.php:1704
+msgid "March"
+msgstr ""
+
+#: inc/theme-functions.php:1705
+msgid "April"
+msgstr ""
+
+#: inc/theme-functions.php:1706
+msgid "May"
+msgstr ""
+
+#: inc/theme-functions.php:1707
+msgid "June"
+msgstr ""
+
+#: inc/theme-functions.php:1708
+msgid "July"
+msgstr ""
+
+#: inc/theme-functions.php:1709
+msgid "August"
+msgstr ""
+
+#: inc/theme-functions.php:1710
+msgid "September"
+msgstr ""
+
+#: inc/theme-functions.php:1711
+msgid "October"
+msgstr ""
+
+#: inc/theme-functions.php:1712
+msgid "November"
+msgstr ""
+
+#: inc/theme-functions.php:1713
+msgid "December"
+msgstr ""
+
+#: inc/theme-functions.php:1733
+#: vendor/inc2734/wp-breadcrumbs/src/app/controller/not-found.php:19
+msgid "Page not found"
+msgstr ""
+
+#: inc/theme-functions.php:1738
+#: vendor/inc2734/wp-breadcrumbs/src/app/controller/search.php:21
+#, php-format
+msgid "Search results of \"%1$s\""
+msgstr ""
+
+#: inc/theme-functions.php:1804
+#: inc/woocommerce/theme-woocommerce-template-functions.php:414
+#: vendor/inc2734/wp-breadcrumbs/src/app/controller/front-page.php:35
+msgid "Home"
+msgstr ""
+
+#: inc/theme-functions.php:1911
+msgid "Design Current Page"
+msgstr ""
+
+#: inc/theme-functions.php:1915
+msgid "Add custom design current page"
+msgstr ""
+
+#: inc/theme-functions.php:2005
+msgid "result(s) found for"
+msgstr ""
+
+#: inc/theme-functions.php:2015
+msgid "result found for"
+msgstr ""
+
+#: inc/theme-functions.php:2040
+#: inc/woocommerce/theme-woocommerce-template-functions.php:603
+msgid "No image..."
+msgstr ""
+
+#: inc/theme-functions.php:2447
+msgid "- Select -"
+msgstr ""
+
+#: inc/theme-functions.php:2491
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-functions.php:2497
+msgid "Enable Current Page is Blog"
+msgstr ""
+
+#: inc/theme-functions.php:2499
+msgid "checked to set current page is blog."
+msgstr ""
+
+#: inc/theme-functions.php:2501
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/theme-functions.php:2507
+msgid "Blog – First Item Full"
+msgstr ""
+
+#: inc/theme-functions.php:2508
+msgid "Blog – Featured Post Slide"
+msgstr ""
+
+#: inc/theme-functions.php:2510
+msgid "Select custom layout for blog."
+msgstr ""
+
+#: inc/theme-functions.php:2512
+msgid "Select Featured Post for Slide"
+msgstr ""
+
+#: inc/theme-functions.php:2517
+msgid "Select posts for top slide."
+msgstr ""
+
+#: inc/theme-functions.php:2559
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:19
+msgid "Theme Widget - Branding Gallery"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:20
+msgid "Displays a grid brading gallery 1-4 columns"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:22
+msgid "Branding"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:27
+#: inc/widgets/class-widget-feature-box-slide.php:49
+#: inc/widgets/class-widget-images-slide.php:27
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:28
+#: inc/widgets/class-widget-images-slide.php:28
+#: inc/widgets/class-widget-menu-mega-dropdown.php:72
+msgid "Url"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:30
+msgid "Column(s)"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:32
+msgid "1 Column"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:33
+#: inc/widgets/class-widget-menu-mega-dropdown.php:101
+msgid "2 Columns"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:34
+#: inc/widgets/class-widget-menu-mega-dropdown.php:102
+msgid "3 Columns"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:35
+#: inc/widgets/class-widget-menu-mega-dropdown.php:103
+msgid "4 Columns"
+msgstr ""
+
+#: inc/widgets/class-widget-branding.php:38
+#: inc/widgets/class-widget-images-slide.php:31
+msgid "Open on new window"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:19
+msgid "Theme Widget - Custom Menu"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:20
+msgid "Custom menu widget"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:28
+msgid "Horizontal"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:29
+msgid "Vertical"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:32
+#: inc/widgets/class-widget-deliperss-mini-form.php:35
+#: inc/widgets/class-widget-delipress-custom-form.php:42
+#: inc/widgets/class-widget-feature-box-slide.php:71
+#: inc/widgets/class-widget-language-switching.php:51
+#: inc/widgets/class-widget-menu-mega-dropdown.php:141
+#: inc/widgets/class-widget-minicart.php:27
+#: inc/widgets/class-widget-product-search.php:43
+#: inc/widgets/class-widget-search.php:29
+#: inc/widgets/class-widget-wishlist-products-counter.php:29
+msgid "Classes custom design"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:53
+msgid "Menu item - link"
+msgstr ""
+
+#: inc/widgets/class-widget-custom-menu.php:57
+msgid "Menu item - link (:hover)"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:19
+msgid "Theme Widget - Delipress Custom Mini Form"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:20
+msgid "Displays Delipress Mini Form - Short descriptions & E-mail field"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:23
+#: inc/widgets/class-widget-delipress-custom-form.php:23
+msgid "Newsletter sign-up"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:27
+#: inc/widgets/class-widget-delipress-custom-form.php:32
+msgid "Form Descriptions Text"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:28
+#: inc/widgets/class-widget-delipress-custom-form.php:33
+msgid "Amazing deals, updates & freebies in your inbox"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:50
+#: inc/widgets/class-widget-delipress-custom-form.php:61
+msgid "Your email"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:92
+#: inc/widgets/class-widget-delipress-custom-form.php:111
+msgid "Delipress custom form wrap"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:96
+#: inc/widgets/class-widget-delipress-custom-form.php:123
+msgid "Delipress custom form - Descriptions"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:100
+msgid "Delipress custom form - Button submit"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:104
+msgid "Delipress custom form - Button submit (:hover)"
+msgstr ""
+
+#: inc/widgets/class-widget-deliperss-mini-form.php:109
+#: inc/widgets/class-widget-delipress-custom-form.php:136
+msgid "Delipress Custom Form"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:19
+msgid "Theme Widget - Delipress Custom Form"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:20
+msgid "Displays Delipress form"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:30
+msgid "Form Heading Text"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:31
+msgid "Subcribe to our weekly newsletter"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:34
+msgid "Form Buttom Submit Text"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:35
+msgid "Subscribe"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:68
+msgid "Subscribed success"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:74
+msgid "Subscribed error"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:96
+msgid "newsletter email"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:115
+msgid "Delipress custom form - Icon"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:119
+msgid "Delipress custom form - Title"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:127
+msgid "Delipress custom form - Button"
+msgstr ""
+
+#: inc/widgets/class-widget-delipress-custom-form.php:131
+msgid "Delipress custom form - Button (:hover)"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:19
+msgid "Theme Widget - Featured Box Slide"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:20
+msgid "Displays featured box slide"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:22
+msgid "Our Services"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:28
+msgid "Icon Font - Classes"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:32
+msgid "Note: for Icon Font type you can use Fontawesome 4.x, Ionicon, Dashion."
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:50
+msgid "Descriptions"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:52
+#: inc/widgets/class-widget-images-slide.php:30
+#: inc/widgets/class-widget-instagram-slide.php:34
+msgid "Slide auto play"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:58
+#: inc/widgets/class-widget-instagram-slide.php:40
+msgid "Input number columns for slide."
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:59
+#: inc/widgets/class-widget-instagram-slide.php:41
+msgid "Columns on Tablet"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:64
+#: inc/widgets/class-widget-instagram-slide.php:46
+msgid "Input number columns on tablet for slide."
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:65
+#: inc/widgets/class-widget-instagram-slide.php:47
+msgid "Columns on Mobile"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:70
+#: inc/widgets/class-widget-instagram-slide.php:52
+msgid "Input number columns on mobile for slide."
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:131
+msgid "Featured box item wrap"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:135
+msgid "Featured box - Icon"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:139
+msgid "Featured box - Title"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:143
+msgid "Featured box - Descriptions"
+msgstr ""
+
+#: inc/widgets/class-widget-feature-box-slide.php:148
+msgid "Featured Box"
+msgstr ""
+
+#: inc/widgets/class-widget-images-slide.php:19
+msgid "Theme Widget - Images Slide"
+msgstr ""
+
+#: inc/widgets/class-widget-images-slide.php:20
+msgid "Displays a images slide (banners)"
+msgstr ""
+
+#: inc/widgets/class-widget-images-slide.php:22
+msgid "Banner"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:19
+msgid "Theme Widget - Instagram Gallery Grid"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:20
+msgid "Instagram gallery grid."
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:22
+msgid "Instagram Gallery"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:23
+#: inc/widgets/class-widget-instagram-slide.php:23
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:25
+#: inc/widgets/class-widget-instagram-slide.php:25
+msgid "Input username for instagram feed"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:27
+#: inc/widgets/class-widget-instagram-slide.php:28
+msgid "Items Show"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:32
+#: inc/widgets/class-widget-instagram-slide.php:33
+msgid "Input number item for display."
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:38
+msgid "Input number column."
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:39
+msgid "Gap"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:44
+msgid "Input number gap."
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:45
+msgid "Show author"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:47
+msgid "Checked for show author avatar & authro name."
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-gallery-grid.php:105
+msgid "#instagram"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-slide.php:19
+msgid "Theme Widget - Instagram Slide"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-slide.php:20
+msgid "Displays instagram slide"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-slide.php:22
+msgid "Instagram Slide"
+msgstr ""
+
+#: inc/widgets/class-widget-instagram-slide.php:27
+msgid "Columns gap"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:19
+msgid "Theme Widget - Language Switching"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:20
+msgid "Displays language switching"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:23
+msgid "Language Switching"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:26
+#: inc/widgets/class-widget-menu-mega-dropdown.php:30
+#: inc/widgets/class-widget-menu-mega-dropdown.php:49
+msgid "Label"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:28
+msgid "Direct Url"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:33
+msgid "English"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:37
+msgid "România"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:71
+msgid "Language"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:101
+#: inc/widgets/class-widget-search.php:62
+msgid "Widget search wrap"
+msgstr ""
+
+#: inc/widgets/class-widget-language-switching.php:106
+#: inc/widgets/class-widget-search.php:78
+msgid "Widget Search"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:19
+msgid "Theme Widget - Menu Mega Dropdown"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:20
+msgid "Displays menu mega dropdown"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:23
+msgid "Menu Mega Dropdown"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:27
+msgid "Minimal"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:31
+msgid "Quick Links"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:32
+msgid "Open Menu On"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:38
+msgid "Menu Open"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:51
+msgid "Icon Type"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:53
+msgid "Icon Image"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:57
+msgid "Icon Font — Classes"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:74
+msgid "Menu Style"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:78
+msgid "Menu Mega Multiple Columns — Light"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:79
+msgid "Menu Mega Multiple Columns — Dark"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:82
+msgid "Sub — Menu"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:91
+msgid "Sub — Background Image"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:99
+msgid "Sub — Menu Mega Columns"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:113
+msgid "Sub — Menu Mega Data"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:123
+msgid "Menu Item Image"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:238
+msgid "Widget menu mega dropdown wrap"
+msgstr ""
+
+#: inc/widgets/class-widget-menu-mega-dropdown.php:243
+msgid "Widget Menu Mega Dropdown"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:19
+msgid "Theme Widget - Mini Cart"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:20
+msgid "Displays a mini cart"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:23
+msgid "My Cart"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:47
+msgid "Mini cart wrap"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:51
+msgid "Mini cart content"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:58
+msgid "SVG Icon Cart"
+msgstr ""
+
+#: inc/widgets/class-widget-minicart.php:63
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:19
+msgid "Theme Widget - Product Search"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:20
+msgid "Displays a search field search products"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:23
+msgid "Products Search"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:24
+msgid "On/Off Suggestions Product"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:34
+msgid "Our featured products"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:35
+msgid "Suggestions Products"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:42
+msgid "- Select Product -"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:100
+#: inc/widgets/class-widget-product-search.php:102
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:163
+msgid "Products search form"
+msgstr ""
+
+#: inc/widgets/class-widget-product-search.php:168
+msgid "Search products…"
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:19
+msgid "Theme Widget - Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:20
+msgid "Your site’s most recent Posts."
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:22
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:23
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:28
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:30
+msgid "Display post author?"
+msgstr ""
+
+#: inc/widgets/class-widget-recent-posts.php:80
+msgid "There are no posts to display..!"
+msgstr ""
+
+#: inc/widgets/class-widget-search.php:19
+msgid "Theme Widget - Search"
+msgstr ""
+
+#: inc/widgets/class-widget-search.php:20
+msgid "Displays search"
+msgstr ""
+
+#: inc/widgets/class-widget-search.php:73
+#: inc/widgets/class-widget-wishlist-products-counter.php:84
+msgid "SVG Icon Search"
+msgstr ""
+
+#: inc/widgets/class-widget-wishlist-products-counter.php:19
+msgid "Theme Widget - Wishlist Products Counter"
+msgstr ""
+
+#: inc/widgets/class-widget-wishlist-products-counter.php:20
+msgid "Displays the number of products in the wishlist on your site."
+msgstr ""
+
+#: inc/widgets/class-widget-wishlist-products-counter.php:23
+msgid "Wishlist"
+msgstr ""
+
+#: inc/widgets/class-widget-wishlist-products-counter.php:50
+msgid "Wishlist counter"
+msgstr ""
+
+#: inc/widgets/class-widget-wishlist-products-counter.php:73
+msgid "Widget wishlist counter wrap"
+msgstr ""
+
+#: inc/widgets/class-widget-wishlist-products-counter.php:89
+msgid "Widget wishlist counter"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:16
+msgid "Shop"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:26
+msgid "Products per page"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:36
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1490
+msgid "Product Detail"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:48
+#: inc/woocommerce/theme-woocommerce-functions.php:272
+msgid "Sticky Content"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:62
+msgid "Related Products Items"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:65
+msgid "Related Products Columns"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:74
+msgid "Product Image Sizes"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:78
+msgid "Thumbnail Image Width"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:83
+msgid "Thumbnail Image Height"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:97
+msgid "Gallery Thumbnail Image Width"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:102
+msgid "Gallery Thumbnail Image Height"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:116
+msgid "Single Image Width"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-control.php:121
+msgid "Single Image Height"
+msgstr ""
+
+#: inc/woocommerce/customizer/class-woocommerce-customizer.php:76
+msgid "🛒 WooCommerce"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart-empty.php:33
+msgid "Return to shop"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:37
+#: inc/woocommerce/templates/cart/cart.php:81
+msgid "Product"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:38
+#: inc/woocommerce/templates/cart/cart.php:99
+msgid "Price"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:39
+#: inc/woocommerce/templates/cart/cart.php:105
+#: inc/woocommerce/templates/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:40
+#: inc/woocommerce/templates/cart/cart.php:122
+msgid "Total"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:62
+msgid "Remove this item"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:94
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:140
+msgid "Coupon:"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:142
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/cart.php:147
+msgid "Update cart"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/proceed-to-checkout-button.php:31
+msgid "Button checkout"
+msgstr ""
+
+#: inc/woocommerce/templates/cart/proceed-to-checkout-button.php:32
+msgid "Proceed to checkout"
+msgstr ""
+
+#: inc/woocommerce/templates/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/woocommerce/templates/checkout/form-checkout.php:58
+msgid "Your order"
+msgstr ""
+
+#: inc/woocommerce/templates/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:162
+msgid "Shop Page"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:271
+msgid "Gallery Slide Button Inline"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:273
+msgid "Gallery Grid"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:395
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1139
+msgid "Product video"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:401
+msgid "product video url"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:402
+msgid "You can use url Youtube or Vimeo for this field."
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:449
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1723
+msgid "Sale"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:514
+msgid "Did not find any result for: "
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:515
+msgid "Empty, please try again with another keyword!"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:576
+msgid "Default — My Shopping Bag"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:582
+msgid "Bag — Only Icon"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-functions.php:588
+msgid "Cart — Only Icon"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:237
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:379
+msgid "Shop page"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:395
+msgid "Breadcrumb Wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:399
+msgid "Breadcrumb Link"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:403
+msgid "Breadcrumb Link (:hover)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:470
+msgid "Reviews"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:480
+msgid "Tabs wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:481
+msgid "Tab item"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:482
+msgid "Tab item active"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:485
+msgid "Tabs"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:508
+msgid "Continue shop link"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:508
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:519
+msgid "Cart table wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:520
+msgid "Cart table heading (thead > th)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:521
+msgid "Cart table product name"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:522
+msgid "Cart table product name (:hover)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:523
+msgid "Cart table product price"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:526
+msgid "Cart table"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:538
+msgid "Cart total wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:539
+msgid "Cart total heading"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:540
+msgid "Cart total price"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:543
+msgid "Cart sidebar"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:555
+msgid "Checkout billing details wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:556
+msgid "Checkout billing details heading"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:557
+msgid "Checkout billing details field label"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:560
+msgid "Checkout billing details"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:572
+msgid "Checkout order review wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:573
+msgid "Checkout order review product name"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:574
+msgid "Checkout order review total price"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:575
+msgid "Checkout order button submit"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:576
+msgid "Checkout order button submit (:hover)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:579
+msgid "Checkout order review"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:619
+msgid "Product in"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:639
+msgid "Cart"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:641
+msgid "WooCommerce mini cart"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:664
+msgid "Cart Position"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:665
+msgid "Select position(left/right) cart display (default: Left)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:806
+msgid "Mini-cart wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:807
+msgid "Mini-cart product title"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:808
+msgid "Mini-cart product title (:hover)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:809
+msgid "Mini-cart button checkout"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:810
+msgid "Mini-cart button checkout (:hover)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:811
+msgid "Mini-cart background layout"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:820
+msgid "Mini cart"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:863
+msgid "Product entry summary wrap"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:867
+msgid "Product entry summary - title"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:871
+msgid "Product - add to cart"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:875
+msgid "Product - add to cart (:hover)"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:931
+msgid "more"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1126
+msgid "Full screen"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1177
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1313
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1361
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1470
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1491
+msgid "Custom Product Detail"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1497
+msgid "on/off custom product detail."
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1522
+msgid "on/off related products."
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1617
+msgid "My Shopping Bag"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1624
+#, php-format
+msgid "Item — %s"
+msgid_plural "Items — %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1648
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1669
+msgid "Mini cart badge"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1691
+msgid "close"
+msgstr ""
+
+#: inc/woocommerce/theme-woocommerce-template-functions.php:1693
+msgid "My Shopping Cart"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:34
+msgid "Feature boxes wrap"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:38
+msgid "Feature boxes title"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:42
+msgid "Feature boxes content"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:48
+msgid "Feature Boxes"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:62
+msgid "Testimonial Slide 2 - Content text"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:66
+msgid "Testimonial Slide 2 - Name"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:70
+msgid "Testimonial Slide 2 - Position"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:76
+msgid "Testimonial Slide 2"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:90
+msgid "Testimonial Slide Item Wrap"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:94
+msgid "Testimonial Slide - Name"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:98
+msgid "Testimonial Slide - Position"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:102
+msgid "Testimonial Slide - Content text"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:108
+msgid "Testimonial Slide"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:122
+msgid "Products Carousel Filter Nav Wrap"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:126
+msgid "Products Carousel Filter Item"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:130
+msgid "Products Carousel Filter Item (:hover)"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:134
+msgid "Products Carousel Filter Item (:active)"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:140
+msgid "Products Carousel Filter Nav"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:155
+#: inc/wpbakery/theme-wpbakery-functions.php:169
+msgid "Image Box Grid Wrap"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:159
+#: inc/wpbakery/theme-wpbakery-functions.php:177
+msgid "Image Box Grid Title"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:163
+msgid "Image Box Grid Content Text"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:173
+msgid "Image Box Grid Entry Wrap"
+msgstr ""
+
+#: inc/wpbakery/theme-wpbakery-functions.php:184
+msgid "Image Box Grid"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Found %s result(s)"
+msgstr ""
+
+#: templates/admin/content-import-demo.php:15
+#: templates/admin/content-import-demo.php:51
+msgid "Live Preview"
+msgstr ""
+
+#: templates/admin/content-import-demo.php:20
+#: templates/admin/content-import-demo.php:52
+msgid "Install"
+msgstr ""
+
+#: templates/admin/content-import-demo.php:42
+msgid "Include"
+msgstr ""
+
+#: templates/admin/content-import-demo.php:42
+msgid "Plugins"
+msgstr ""
+
+#: templates/admin/content-import-demo.php:48
+msgid ""
+"IMPORTANT: Installing this demo content will delete the content you "
+"currently have on your website. However, we create a backup of your current "
+"content in (Dashboad > Backup). You can restore the backup from there at any "
+"time in the future."
+msgstr ""
+
+#: templates/admin/content-requirements.php:88
+#: templates/admin/content-requirements.php:107
+msgid "WordPress Memory Limit"
+msgstr ""
+
+#: templates/admin/content-requirements.php:90
+#: templates/admin/content-requirements.php:109
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: templates/admin/content-requirements.php:93
+msgid "We recommend setting memory to at least"
+msgstr ""
+
+#: templates/admin/content-requirements.php:96
+msgid ". Please define memory limit in \"wp-config.php\" file."
+msgstr ""
+
+#: templates/admin/content-requirements.php:98
+#: templates/admin/content-requirements.php:169
+#: templates/admin/content-requirements.php:199
+#: templates/admin/content-requirements.php:229
+#: templates/admin/content-requirements.php:339
+msgid "Learn how to do it"
+msgstr ""
+
+#: templates/admin/content-requirements.php:120
+#: templates/admin/content-requirements.php:137
+#: templates/admin/content-requirements.php:148
+msgid "PHP Version"
+msgstr ""
+
+#: templates/admin/content-requirements.php:122
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: templates/admin/content-requirements.php:124
+msgid ""
+"We recommend you update PHP to the latest version. The minimum required "
+"version for this theme is:"
+msgstr ""
+
+#: templates/admin/content-requirements.php:128
+#: templates/admin/content-requirements.php:290
+#: templates/admin/content-requirements.php:309
+msgid "Contact your hosting provider, they can install it for you."
+msgstr ""
+
+#: templates/admin/content-requirements.php:139
+msgid "The version of PHP installed on your hosting server"
+msgstr ""
+
+#: templates/admin/content-requirements.php:148
+msgid "No PHP Installed"
+msgstr ""
+
+#: templates/admin/content-requirements.php:161
+#: templates/admin/content-requirements.php:178
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: templates/admin/content-requirements.php:163
+#: templates/admin/content-requirements.php:180
+msgid "The largest file size that can be contained in one post."
+msgstr ""
+
+#: templates/admin/content-requirements.php:165
+msgid "We recommend setting the post maximum size to at least:"
+msgstr ""
+
+#: templates/admin/content-requirements.php:191
+#: templates/admin/content-requirements.php:208
+msgid "PHP Time Limit"
+msgstr ""
+
+#: templates/admin/content-requirements.php:193
+#: templates/admin/content-requirements.php:210
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)."
+msgstr ""
+
+#: templates/admin/content-requirements.php:195
+msgid "We recommend setting the maximum execution time to at least"
+msgstr ""
+
+#: templates/admin/content-requirements.php:221
+#: templates/admin/content-requirements.php:238
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: templates/admin/content-requirements.php:223
+#: templates/admin/content-requirements.php:240
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: templates/admin/content-requirements.php:225
+msgid "Please increase the maximum input variables limit to:"
+msgstr ""
+
+#: templates/admin/content-requirements.php:251
+#: templates/admin/content-requirements.php:262
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: templates/admin/content-requirements.php:253
+msgid ""
+"Suhosin is an advanced protection system for PHP installations and may need "
+"to be configured to increase its data submission limits."
+msgstr ""
+
+#: templates/admin/content-requirements.php:264
+msgid "Suhosin is an advanced protection system for PHP installations."
+msgstr ""
+
+#: templates/admin/content-requirements.php:275
+#: templates/admin/content-requirements.php:286
+msgid "ZipArchive"
+msgstr ""
+
+#: templates/admin/content-requirements.php:277
+#: templates/admin/content-requirements.php:288
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: templates/admin/content-requirements.php:301
+#: templates/admin/content-requirements.php:318
+msgid "MySQL Version"
+msgstr ""
+
+#: templates/admin/content-requirements.php:303
+#: templates/admin/content-requirements.php:320
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: templates/admin/content-requirements.php:305
+msgid ""
+"We recommend you update MySQL to the latest version. The minimum required "
+"version for this theme is:"
+msgstr ""
+
+#: templates/admin/content-requirements.php:331
+#: templates/admin/content-requirements.php:348
+msgid "Max Upload Size"
+msgstr ""
+
+#: templates/admin/content-requirements.php:333
+#: templates/admin/content-requirements.php:350
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: templates/admin/content-requirements.php:335
+msgid "We recommend setting the maximum upload file size to at least:"
+msgstr ""
+
+#: templates/admin/content-requirements.php:361
+#: templates/admin/content-requirements.php:372
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: templates/admin/content-requirements.php:363
+msgid ""
+"Payment gateways can use cURL to communicate with remote servers to "
+"authorize payments, other plugins may also use it when communicating with "
+"remote services. Your server does not have fsockopen or cURL enabled thus "
+"PayPal IPN and other scripts which communicate with other servers will not "
+"work. Contact your hosting provider, they can install it for you."
+msgstr ""
+
+#: templates/admin/content-requirements.php:374
+msgid ""
+"ayment gateways can use cURL to communicate with remote servers to authorize "
+"payments, other plugins may also use it when communicating with remote "
+"services."
+msgstr ""
+
+#: templates/admin/content-requirements.php:385
+msgid "WordPress Environment"
+msgstr ""
+
+#: templates/admin/content-requirements.php:392
+msgid "Home URL"
+msgstr ""
+
+#: templates/admin/content-requirements.php:393
+msgid "The URL of your site's homepage"
+msgstr ""
+
+#: templates/admin/content-requirements.php:401
+msgid "Site URL"
+msgstr ""
+
+#: templates/admin/content-requirements.php:402
+msgid "The root URL of your site"
+msgstr ""
+
+#: templates/admin/content-requirements.php:410
+msgid "WordPress Version"
+msgstr ""
+
+#: templates/admin/content-requirements.php:411
+msgid "The version of WordPress installed on your site"
+msgstr ""
+
+#: templates/admin/content-requirements.php:421
+msgid "WordPress Multisite"
+msgstr ""
+
+#: templates/admin/content-requirements.php:424
+msgid "Whether or not you have WordPress Multisite enabled"
+msgstr ""
+
+#: templates/admin/content-requirements.php:434
+msgid "WordPress Debug Mode"
+msgstr ""
+
+#: templates/admin/content-requirements.php:437
+msgid "Displays whether or not WordPress is in Debug Mode"
+msgstr ""
+
+#: templates/admin/content-requirements.php:446
+msgid "Server Environment"
+msgstr ""
+
+#: templates/admin/content-requirements.php:453
+msgid "Server Info"
+msgstr ""
+
+#: templates/admin/content-requirements.php:454
+msgid "Information about the web server that is currently hosting your site"
+msgstr ""
+
+#: templates/admin/content-setup.php:7
+msgid "1. Theme Requirements"
+msgstr ""
+
+#: templates/admin/content-setup.php:11
+msgid "2. Plugins Compatible"
+msgstr ""
+
+#: templates/admin/content-setup.php:15
+msgid "3. Demo & Import"
+msgstr ""
+
+#: templates/comment/comment.php:24
+msgid "Post Comments"
+msgstr ""
+
+#: templates/comment/comment.php:25
+msgid "Comments area"
+msgstr ""
+
+#: templates/comment/comment.php:32
+msgid "Comment title"
+msgstr ""
+
+#: templates/comment/comment.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/comment/comment.php:44
+msgid "Comment Navigation Above"
+msgstr ""
+
+#: templates/comment/comment.php:45 templates/comment/comment.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: templates/comment/comment.php:46 templates/comment/comment.php:64
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: templates/comment/comment.php:47 templates/comment/comment.php:65
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: templates/comment/comment.php:62
+msgid "Comment Navigation Below"
+msgstr ""
+
+#: templates/comment/comment.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/comment/comment.php:76
+msgid "Title reply"
+msgstr ""
+
+#: templates/newsletter-lightbox/content.php:36
+msgid "Open newsletter"
+msgstr ""
+
+#: templates/post-related/content-carousel.php:39
+msgid "Related title"
+msgstr ""
+
+#: templates/post-related/content-carousel.php:39
+msgid "Most Popular Posts"
+msgstr ""
+
+#: templates/post-related/content-carousel.php:40
+msgid "Related sub-title"
+msgstr ""
+
+#: templates/post-related/content-carousel.php:40
+msgid "That You Shouldn't Miss Out"
+msgstr ""
+
+#: templates/post/content-search.php:10
+msgid "Created by"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Theme_Options_Container.php:207
+msgid "Settings saved."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Footer_Scripts_Field.php:20
+msgid ""
+"If you need to add scripts to your footer (like Google Analytics tracking "
+"code), you should enter them in this box."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Gravity_Form_Field.php:47
+msgid "No form"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Header_Scripts_Field.php:20
+msgid "If you need to add scripts to your header, you should enter them here."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Sidebar_Field.php:74
+msgctxt "sidebar"
+msgid "Add New"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:69
+msgid "Please enter a name for the sidebar."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:72
+msgid "Unknown action attempted."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:102
+msgid "Sidebar with the same ID is already registered."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:112
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:142
+msgid ""
+"Failed to update option storing your custom sidebars. Please contact support."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:137
+msgid "Sidebar not found."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:181
+msgid "Add Sidebar"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:182
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:154
+msgid "Please enter the name of the new sidebar:"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:183
+msgid "Are you sure you wish to remove this sidebar?"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:129
+msgid "Please fill out all required fields highlighted below."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:130
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:134
+msgid "The address could not be found. "
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:135
+msgid "Geocode was not successful for the following reason: "
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:136
+msgid "Locate address on the map:"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:137
+#, php-format
+msgid "Minimum number of items not reached (%s items)"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:138
+#, php-format
+msgid "Maximum number of items reached (%s items)"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:140
+#, php-format
+msgid "There are no %s yet. Click <a href=\"#\">here</a> to add one."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:141
+#, php-format
+msgid "Minimum number of rows not reached (%1$d %2$s)"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:142
+#, php-format
+msgid "Maximum number of rows exceeded (%1$d %2$s)"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:143
+#, php-format
+msgctxt "Complex field"
+msgid "Add %s"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:144
+msgctxt "Complex field"
+msgid "Clone"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:145
+msgctxt "Complex field"
+msgid "Remove"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:146
+msgctxt "Complex field"
+msgid "Collapse/Expand"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:147
+msgctxt "Complex field groups"
+msgid "Collapse All"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:148
+msgctxt "Complex field groups"
+msgid "Expand All"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:150
+msgid "Please fill out all fields correctly. "
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:151
+msgid "This field is required. "
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:152
+msgid "Please choose an option. "
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:156
+msgid "Select Time"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:157
+msgid "Select Date"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:159
+#, php-format
+msgid "%1$d selected item"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:160
+#, php-format
+msgid "%1$d selected items"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:161
+#, php-format
+msgid "%1$d selected item out of %2$d"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:162
+#, php-format
+msgid "%1$d selected items out of %2$d"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:164
+msgid "Select a color"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:166
+msgid "No options."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:168
+msgid "Show all options"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:170
+msgid "Search..."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:172
+msgctxt "WordPress media attachment"
+msgid "URL"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:173
+msgctxt "WordPress media attachment"
+msgid "Title"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:174
+msgctxt "WordPress media attachment"
+msgid "Artist"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:175
+msgctxt "WordPress media attachment"
+msgid "Album"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:176
+msgctxt "WordPress media attachment"
+msgid "Caption"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:177
+msgctxt "WordPress media attachment"
+msgid "Alt Text"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:178
+msgctxt "WordPress media attachment"
+msgid "Description"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:179
+msgctxt "WordPress media attachment"
+msgid "Close"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:180
+msgctxt "WordPress media attachment"
+msgid "Save"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:182
+msgctxt "oEmbed field"
+msgid "Not Found"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:184
+msgid "No files selected."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:185
+msgid "Add File"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:186
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:190
+msgctxt "WordPress Media Browser"
+msgid "Files"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:187
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:191
+msgctxt "WordPress Media Browser"
+msgid "Select File"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:189
+msgid "Select File"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:194
+msgctxt "WordPress Media Browser"
+msgid "Images"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Loader/Loader.php:195
+msgctxt "WordPress Media Browser"
+msgid "Select Image"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:287
+msgid "No option names provided"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:298
+msgid "Theme Options updated."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/common/options-page.php:34
+msgid "Actions"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/common/options-page.php:43
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/widget.php:4
+msgid "No options are available for this widget."
+msgstr ""
+
+#: woocommerce-quick-view/quick-view.php:25
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce-quick-view/quick-view.php:29
+msgid "View Full Details"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.bearsthemes.com/wordpress/flinto"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Jayla is the perfect theme for your next WooCommerce project. Designed and "
+"developed by Bearsthemes Core developers."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bearsthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://bearsthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Visual Template"
+msgstr ""

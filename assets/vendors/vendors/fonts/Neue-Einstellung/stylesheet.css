@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Neue Einstellung';
+    src: url('NeueEinstellung-Medium.woff2') format('woff2'),
+        url('NeueEinstellung-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Einstellung';
+    src: url('NeueEinstellung-Bold.woff2') format('woff2'),
+        url('NeueEinstellung-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Einstellung Normal';
+    src: url('NeueEinstellung-Normal.woff2') format('woff2'),
+        url('NeueEinstellung-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Einstellung';
+    src: url('NeueEinstellung-Light.woff2') format('woff2'),
+        url('NeueEinstellung-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Einstellung';
+    src: url('NeueEinstellung-Regular.woff2') format('woff2'),
+        url('NeueEinstellung-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

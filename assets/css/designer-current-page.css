@@ -1,0 +1,11 @@
+#__theme_extends_designer_frontend_2 .theme-extends-designer-frontend-wrap-2{
+	background: #fafafa;
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	overflow: hidden;
+	border-radius: 4px;
+	z-index: 999999;
+	width: 335px;
+    box-shadow: 0 30px 50px 0 rgba(44,49,59,0.20);
+}

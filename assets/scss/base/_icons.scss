@@ -1,0 +1,196 @@
+/**
+ * Breadcrumbs
+ */
+.theme-breadcrumbs{
+	.theme-breadcrumbs-container{
+		.theme-breadcrumbs__list{
+			.theme-breadcrumbs__item{
+				&:first-child{
+					&:before{
+            			@include fontawesome-content("\f015");
+					}
+				}
+				&:not(:last-child) {
+					margin-right: 10px;
+					&:after{
+            			@include fontawesome-content("\f105");
+					}
+				}
+			}
+		}
+	}
+}
+
+/**
+ * Search form
+ */
+.search .page-content,
+.error404 .page-content,
+.widget_search,
+.widget_product_search {
+	form.search-form {
+		&:before {
+			@include fontawesome-content("\f002");
+			position: absolute;
+			top: 50%;
+			right: 1em;
+			margin: 0;
+      		transform: translateY(-50%);
+      		-webkit-transform: translateY(-50%);
+		}
+
+		input[type=text],
+		input[type=search] {
+			padding-right: ms(3);
+		}
+    label{
+      margin-bottom: 0;
+    }
+	}
+}
+
+/**
+ * Widget
+ */
+ .widget_recent_entries,
+ .widget_pages,
+ .widget_categories,
+ .widget_archive,
+ .widget_recent_comments,
+ .widget_nav_menu,
+ .widget_links,
+ .widget_product_categories,
+ .widget_layered_nav,
+ .widget_layered_nav_filters {
+ 	ul {
+ 		margin: 0;
+
+ 		li {
+ 			// padding-left: ms(2);
+ 			padding-left: 1.318em;
+      		position: relative;
+ 			&:before {
+ 				font-family: "FontAwesome"; 
+ 				// margin-right: ms(-3);
+ 				display: block;
+ 				float: left;
+ 				opacity: 0.6;
+ 				// margin-left: - ms(3);
+ 				width: 1em;
+        		position: absolute;
+        		left: 0;
+ 			}
+ 		}
+ 	} 
+ }
+
+ .widget_product_categories {
+	ul {
+		li {
+			&:before {
+				content: "\f114";
+			}
+
+			&.current-cat {
+				&:before {
+					content: "\f115";
+				}
+			}
+		}
+	}
+}
+
+.widget_layered_nav {
+	li {
+		&:before {
+			content: "\f0c8";
+		}
+	}
+
+	.chosen {
+		&:before {
+			content: "\f14a";
+		}
+	}
+}
+
+.widget_layered_nav_filters {
+	ul {
+		li {
+			&.chosen {
+				&:before {
+					content: "\f00d";
+					color: $error;
+					opacity: 1;
+				}
+			}
+		}
+	}
+}
+
+.widget_recent_entries,
+.widget_pages {
+	ul {
+		li {
+			&:before {
+				content: "\f0f6";
+			}
+		}
+	}
+}
+
+.widget_categories {
+	ul {
+		li {
+			&:before {
+				content: "\f114";
+			}
+
+			&.current-cat {
+				&:before {
+					content: "\f115";
+				}
+			}
+		}
+	}
+}
+
+.widget_archive {
+	ul {
+		li {
+			&:before {
+				content: "\f115";
+			}
+		}
+	}
+}
+
+.widget_recent_comments {
+	ul {
+		li {
+			&:before {
+				content: "\f0e5";
+			}
+		}
+	}
+}
+
+.widget_nav_menu {
+	ul {
+		li {
+			&:before {
+				content: "\f0f6";
+			}
+		}
+	}
+}
+
+.widget_links {
+	ul {
+		li {
+			&:before {
+				content: "\f08e";
+			}
+		}
+	}
+}

@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Texta';
+    src: url('Texta-Light.woff2') format('woff2'),
+        url('Texta-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('Texta-Medium.woff2') format('woff2'),
+        url('Texta-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('Texta-Bold.woff2') format('woff2'),
+        url('Texta-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Texta';
+    src: url('Texta-Regular.woff2') format('woff2'),
+        url('Texta-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

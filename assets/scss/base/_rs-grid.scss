@@ -1,0 +1,64 @@
+/**
+ * rs grid
+ *
+ */
+.rs-section{
+  width: 100%;
+}
+.rs-row{
+  display: block;
+  width: 100%;
+  .rs-col{
+    display: inline-block;
+    vertical-align: top;
+  }
+  &.theme-extends-col-vertical-align-middle{
+    .rs-col{
+      vertical-align: middle;
+    }
+  }
+  &.theme-extends-col-vertical-align-top{
+    .rs-col{
+      vertical-align: top;
+    }
+  }
+  &.theme-extends-col-vertical-align-bottom{
+    .rs-col{
+      vertical-align: bottom;
+    }
+  }
+}
+
+.theme-extends-widget-inner-inline-on{
+  .rs-col-inner{
+    > .widget-element,
+    > .wp-widget-element{
+      display: inline-block;
+    }
+  }
+}
+.theme-extends-widget-inner-vertical-align-middle{
+  .rs-col-inner{
+    > .widget-element,
+    > .wp-widget-element{
+      vertical-align: middle;
+      line-height: 1;
+    }
+  }
+}
+.theme-extends-widget-inner-vertical-align-top{
+  .rs-col-inner{
+    > .widget-element,
+    > .wp-widget-element{
+      vertical-align: top;
+    }
+  }
+}
+.theme-extends-widget-inner-vertical-align-bottom{
+  .rs-col-inner{
+    > .widget-element,
+    > .wp-widget-element{
+      vertical-align: bottom;
+    }
+  }
+}

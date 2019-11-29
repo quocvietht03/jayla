@@ -1,0 +1,42 @@
+// Modularscale
+// $base-font: "Poppins-Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+$base-font: "Circular Std Book", Helvetica, Arial, "Lucida Grande", sans-serif;
+$header-font: $base-font;
+$modularscale: (
+  base: 1em .875em,
+  ratio: 1.618
+);
+
+// base color scheme
+$body-background: 	  #FFFFFF !default;
+$color_primary:          #b53d3c !default;
+// $color_second:        #A72ECB !default;
+// $color_body: 		     #43454B !default;
+$color_heading:       #201f1f !default;
+$color_body: 		      #555555 !default;
+$color_links: 		    #555555 !default;
+$color_links_on_hover:#949494 !default;
+$color_border:		    rgba(0,0,0,0.08) !default;
+$color_woocommerce:   #96588a !default;
+$error: 			        #ff3860 !default;
+$success: 			      #23d160 !default;
+$info: 				        #3273dc !default;
+$message: 				    #209cee !default;
+$start_rating:        #ffa900 !default;
+$progress_bar:        #00ffaa !default;
+
+$button_background:       #222;
+$button_color:            #FFF;
+$container_large:			      1844px;
+// backend color
+$backend_color_1:   #6e00ff;
+
+// logo size
+$branding_image_size: 100px !default;
+
+// layout sizes
+$desktop:			      768px;
+$handheld:			    568px;
+$container-width:	  ms(18);
+$size_theme_heading: 36px;
+$size_widget_heading: 18px;

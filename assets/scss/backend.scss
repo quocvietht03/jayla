@@ -1,0 +1,38 @@
+// Vendors
+// External libraries and frameworks.
+// @import 'vendors/normalize';
+@import 'vendors/modularscale/modularscale';
+@import 'vendors/bears-color-picker';
+
+@import 'mixins';
+@import 'variables';
+
+@import 'backend/base';
+@import 'base/rs-grid';
+@import 'base/svg-icon';
+
+// Flaticon Collection
+@import "../vendors/flaticon/flaticon";
+
+// font
+@import '../vendors/fonts/circular/style.css';
+
+/* customize builder */
+@import 'backend/customize-builder';
+
+/* header */
+// @import('backend/global');
+
+/* header */
+@import 'backend/header';
+
+/* taxonomy heading bar */
+@import 'backend/taxonomy-heading-bar';
+
+/* designer */
+@import 'backend/designer';
+
+/* footer */
+@import 'backend/footer';
+
+@import 'backend/setup';

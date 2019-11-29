@@ -1,0 +1,33 @@
+.svg-icon{
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  &:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+  &.add-circular-button{
+    &:after{
+      background: url('../images/svg-icons/add-circular-button.svg') no-repeat center center;
+      background-size: 100%;
+    }
+  }
+  &.move{
+    &:after{
+      background: url('../images/svg-icons/move.svg') no-repeat center center;
+      background-size: 100%;
+    }
+  }
+  &.cube{
+    &:after{
+      background: url('../images/svg-icons/cube.svg') no-repeat center center;
+      background-size: 100%;
+    }
+  }
+}
