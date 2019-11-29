@@ -1,0 +1,54 @@
+# Jayla eCommerce WooCommerce WordPress theme
+
+## Version 1.0.2
+  * Update
+  + New product layout accordion
+  + Add thumbnail & price for next / prev link on product single page
+  + Add more 3 fonts premium (Neue Einstellung, Futura, Texta)
+  + Fix (shop page / product archive page) bootstrap grid system on mobile
+  + Compatible Gutenberg plugin (page template gutenberg)
+
+## Version 1.0.1
+  * Update
+  + New widget product cat with icon
+  + Add custom field image icon for product cat
+  + Shop archive loadmore ajax infinite scroll
+  + Shop archive custom grid system ( bootstrap 4 )
+  + Shop archive filter ( accordion, off-canvas )
+  + New side bar "Shop Archive Filter Sidebar"
+  + New shop options customize settings
+  + Header sticky scroll controller
+  + Update style product cat item on products page
+  + Fix ScrollReveal JS
+
+## Version 1.0.0
+  * Core Features
+  + Setup Theme
+  + SCSS Styling
+  + Page Loading Youtube Style
+  + Scroll top
+  + Auto Update
+  + Global Settings
+  + Designer Customizer Global
+  + Designer Customizer Each Page & Single
+  + Heading Bar (Title Bar) Page & Single
+  + Heading Bar (Title Bar) Each Taxonomy
+  + Header Drag-Drop Builder
+  + Footer Drag-Drop Builder 
+  + Customize Metabox Each Page & Post
+  + Bears Plugins (Product Quick View, Product Color Switching, Megamenu, Backup & Dummy Data Import)
+  + Support Plugins (Jetpack, WooCommerce, WooCommerce Addon, WPBakery, Revoslide, DeliPress - Mail Newsletter, Custom Sidebars, Product Filter, Yoast SEO, etc.)
+  + Support lazyload
+
+  * Core liblary
+  + PHP Composer
+  + SCSS 0.6.x
+  + jQuery
+  + NPM
+  + Webpack
+  + Vue2
+  + http://element.eleme.io (Vue2)
+
+## Start Date 22-9-2017
+  + Setup Folder & File
+# jayla
