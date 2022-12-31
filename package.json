@@ -17,20 +17,20 @@
   },
   "homepage": "https://github.com/lenguyenitc/jayla#readme",
   "devDependencies": {
-    "css-loader": "^0.28.11",
+    "css-loader": "^6.7.3",
     "isotope-layout": "^3.0.5",
     "jsesc": "^2.5.1",
     "lightgallery.js": "^1.0.2",
-    "mini-css-extract-plugin": "^0.4.0",
+    "mini-css-extract-plugin": "^2.7.2",
     "node-sass": "^4.9.0",
     "optimize-css-assets-webpack-plugin": "^4.0.1",
     "plyr": "^3.3.21",
-    "sass-loader": "^7.0.1",
+    "sass-loader": "^13.2.0",
     "scrollreveal": "^3.4.0",
-    "style-loader": "^0.21.0",
+    "style-loader": "^3.3.1",
     "uglifyjs-webpack-plugin": "^1.2.4",
-    "webpack": "^4.7.0",
-    "webpack-cli": "^2.1.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "zooming": "^1.5.0"
   },
   "dependencies": {
@@ -45,7 +45,7 @@
     "sticky-sidebar": "^3.2.1",
     "swiper": "^4.2.2",
     "vue-color": "^2.4.6",
-    "vue-loader": "^15.2.6",
+    "vue-loader": "^17.0.1",
     "vue2-ace": "^1.0.6"
   }
 }
